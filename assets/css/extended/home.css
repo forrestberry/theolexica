@@ -1,0 +1,5 @@
+.first-entry {
+    min-height: unset;
+    margin: calc(var(--gap)*2) 0 calc(var(--gap) * 3) 0;
+}
+

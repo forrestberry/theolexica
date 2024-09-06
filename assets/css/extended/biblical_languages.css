@@ -1,0 +1,18 @@
+.greek {
+    font-family: Times New Roman;
+    font-size: 1.3em;
+}
+span.greek{
+    font-size: 1.2em;
+    line-height: 1;
+}
+
+.hebrew {
+    font-family: Times New Roman;
+    direction: rtl;
+    font-size: 1.7em;
+}
+span.hebrew {
+   font-size: 1.5em;
+   line-height: 0.9;
+}

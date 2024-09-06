@@ -1,4 +1,55 @@
-baseURL: https://example.org/
+baseURL: https://theolexica.org/
 languageCode: en-us
-title: My New Hugo Site
-theme: ["PaperMod"]
+title: Theolexica
+theme: ["PaperMod", "XMin"] 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true #allows html in markdown
+
+module:
+  mounts:
+    - source: /Users/forrest/Documents/notes/public
+      target: content/posts
+    - source: content/posts
+      target: content/posts
+    - source: content/
+      target: content
+
+menu:
+  main:
+    - identifier: archive
+      name: archive
+      url: /archives
+      weight: 20
+    - identifier: search
+      name: search 
+      url: /search
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+# PaperMod Theme Params https://github.com/adityatelange/hugo-PaperMod/wiki/Variables
+Params:
+  # General/Home
+  env: production
+  title: Theolexica
+  description: test
+  author: Forrest Berry
+  keywords: [Greek, Hebrew, Bible, Seminary, Anki, Pastor, Preaching, Study]
+  homeInfoParams:
+    Title: Theolexica
+    Content: Tools for mastering the Biblical text and other miscellany.
+  # Posts
+  ShowReadingTime: true
+  ShowWordCount: false
+  ShowCodeCopyButtons: true
+  showtoc: false
+  tocopen: false
+  #RSS
+  ShowFullTextinRSS: true
+  ShowRssButtonInSectionTermList: true

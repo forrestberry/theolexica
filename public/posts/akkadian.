@@ -1,0 +1,361 @@
+---
+title: Akkadian Grammar Study Guide
+date: 2024-08-04
+draft: false
+tags:
+  - Akkadian
+  - OT Studies
+  - Huehnergard
+  - Grammar
+  - Anki
+---
+
+A study guide for *A Grammar Of Akkadian* Third Edition by John Huehnergard. 
+
+TODO: link to Huehnergard's free copy on academia.com
+TODO: link to Huehnergard's key on academia.com
+
+### Goal
+
+Outline the bare-bones of the grammar in an easily digestible and memorizable format.
+
+Include an Anki flashcard deck for each section.
+
+Non-goal: to be a cliff-notes or drop in replacement for the grammar. (Much of this cheatsheet will be incomprehensible without reading the grammar.)
+
+## Contents
+- [Introduction](#introduction)
+- [Lesson 1 sounds and syllables](#lesson-1)
+
+<print-section>
+
+## Introduction
+
+- Akkadian is 
+    - the oldest Semitic language.
+    - the lingua franca of the ANE from about 2000-500 BC
+    - aka Assyrian and Babylonian
+- Material culture
+    - written on clay tablets (good because virtually indestructible)
+        - vary in size from 1in square to 18in square
+        - most are hand-sized rectangles
+        - written on the face, but also the edges (often so could be read on a shelf)
+    - written with wedge-shaped stylus
+    - hundreds of thousands of extant texts (more than classical Latin)
+- Cuneiform
+    - "wedge shaped"
+    - writing system of Akkadian
+    - syllable based
+    - adapted from Sumerian (a non-related by geographically close language)
+    - each character called a "sign"
+    - thousands of signs
+        - varies based on time and geography
+        - transliteration involves use of *sign list*
+
+### Dialects
+- **Assyrian** (in the north)
+- **Babylonian** (in the south)
+- **Old Babylonian** becomes the classical standard
+- **Standard Babylonian** is the later imitation of Old Babylonian
+- **Peripheral Akkadian** is the term for the Akkadian dialects of futher reaches (often mixed with the grammar and vocabulary of the native language.)
+
+<print-section>
+
+<table>
+    <thead>
+      <tr> 
+        <th colspan=3>Akkadian Dialects by Time and Geography</th>
+      </tr>
+      <tr>
+          <td colspan=2>Old Akkadian (OAkk)</td>
+          <td>2500-2000</td>
+      </tr>
+        <tr>
+          <th>Assyrian</th>
+          <th></th>
+          <th>Babylonian</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>Old Assyrian (OA)</td>
+            <td>2000–1500</td>
+            <td>Old Babylonian (OB)</td>
+        </tr>
+        <tr>
+            <td>Middle Assyrian (MA)</td>
+            <td>1500–1000</td>
+            <td>Middle Babylonian (MB)</td>
+        </tr>
+        <tr>
+            <td>Neo-Assyrian (NA)</td>
+            <td>1000–600</td>
+            <td>Neo-Babylonian (NB)</td>
+        </tr>
+        <tr>
+            <td>—</td>
+            <td>600–100 CE</td>
+            <td>Late Babylonian (LB)</td>
+        </tr>
+    </tbody>
+</table>
+</print-section>
+
+- *Learning Old Babylonian in this couse*
+
+### Research Tools and Context
+
+- **Assyriologist** is a person who studies and prepares texts of Akkadian.
+- Massive field with lots of opportunity.
+    - Hundreds of thousands of texts (not all inventoried)
+    - More discovered every year
+- Preparation of a text
+    - photography
+    - **autograph copy** a hand-drawn representation
+    - **transliteration** a Latin-text representation 
+    - translation
+- Tools
+    - **sign list** a "dictionary" of cuneiform signs and thier values
+    - dictionary
+    - dialect grammar
+
+</print-section>
+
+<print-section>
+
+## Lesson 1
+
+### Alphabet
+
+<print-section>
+<table>
+    <thead>
+        <tr>
+          <th>Akkadian</th>
+          <th>Value</th>
+          <th>Note</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td rowspan=2>a</td>
+            <td>a as in swap</td>
+            <td></td>
+        </tr>
+            <td>ā, â as in father</td>
+            <td>long vowel</td>
+        <tr>
+            <td>b</td>
+            <td>b as in boy</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>d</td>
+            <td>d as in dog</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan=2>e</td>
+            <td>e as in pet</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ē, ê as in reign</td>
+            <td>long vowel</td>
+        </tr>
+        <tr>
+            <td>g</td>
+            <td>g as in get</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ḫ</td>
+            <td>ch as in loch</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ḫ</td>
+            <td>ch as in loch</td>
+            <td>Het</td>
+        </tr>
+        <tr>
+            <td rowspan=2>i</td>
+            <td>i as in pit</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ī, î as in marine</td>
+            <td>long vowel</td>
+        </tr>
+        <tr>
+            <td>y</td>
+            <td>y as in marine</td>
+            <td>also written j</td>
+        </tr>
+        <tr>
+            <td>k</td>
+            <td>k as in kid</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>l</td>
+            <td>l as in lot</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>m</td>
+            <td>m as in met</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>n</td>
+            <td>n as in not</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>p</td>
+            <td>p as in pot</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>q</td>
+            <td>k as in kick</td>
+            <td>emphatic</td>
+        </tr>
+        <tr>
+            <td>s</td>
+            <td>s as in set</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ṣ</td>
+            <td>ts as in bits</td>
+            <td>emphatic, Tsade</td>
+        </tr>
+        <tr>
+            <td>š</td>
+            <td>sh as in shot</td>
+            <td>shin</td>
+        </tr>
+        <tr>
+            <td>t</td>
+            <td>t as in tot</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ṭ</td>
+            <td>t as in tot</td>
+            <td>emphatic, Tet</td>
+        </tr>
+        <tr>
+            <td rowspan=2>u</td>
+            <td>u as in put</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ū, û as in rule</td>
+            <td>long vowel</td>
+        </tr>
+        <tr>
+            <td>w</td>
+            <td>w as in wet</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>z</td>
+            <td>z as in zoo</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ʾ</td>
+            <td>glottal stop</td>
+            <td>Aleph, ignored in the dictionary</td>
+        </tr>
+    </tbody>
+</table>
+</print-section>
+
+a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z.
+
+
+#### Vowels
+
+- The length of the vowels is an important part of the spelling. (mutum ‘husband’ vs mūtum ‘death’)
+- Long vowels are marked either with a macron, ā, or with a circumﬂex, â depending on the origin of the length (see Lesson 6).
+
+<table>
+    <thead>
+        <tr>
+          <th>Short Vowel</th>
+          <th>Value</th>
+          <th>Long Vowel</th>
+          <th>Value</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>a</td>
+            <td>a as in swap</td>
+            <td>ā, â</td>
+            <td>a as in father</td>
+        </tr>
+        <tr>
+            <td>e</td>
+            <td>e as in pet</td>
+            <td>ē, ê</td>
+            <td>e as in reign</td>
+        </tr>
+        <tr>
+            <td>i</td>
+            <td>i as in pit</td>
+            <td>ī, î</td>
+            <td>i as in marine</td>
+        </tr>
+        <tr>
+            <td>u</td>
+            <td>u as in put</td>
+            <td>ū, û</td>
+            <td>u as in rule</td>
+        </tr>
+    </tbody>
+</table>
+
+#### Consonants
+
+- w does not occur before other consonants 
+    - except itself
+    - except at the end of a word
+- y only occurs between vowels or (rarely) at the beginning of a word)
+    - also transliterated j
+- q, ṣ, ṭ are "emphatic" (important later, see Lesson 9)
+- ʾ (aleph) only occurs between vowels and rarely at the end of a syllable
+    - some scholars put an aleph between every doubled vowel
+    - ignored in the dictionary (words containing ʾ are treated as if it were not there)
+- all consonants can be doubled
+
+### Syllables
+
+- The writing system is based on syllables. Therefore crucial to master syllabification!
+- Three rules:
+    1. Every syllable has one and only one vowel.
+    1. No syllable may begin with a vowel
+        - except the beginning of a word
+        - except when syllables doubled
+    1. No syllable may begin or end with two consonants
+
+### Accents
+
+- Three types of syllables:
+    1. light - ends in a short vowel
+    1. heavy - ends in a macron-long vowel (ā) or short vowel + consonant
+    1. ultraheavy - ends in a circumflex-long vowel (â) or long vowel + consonant
+- Stress can be determined based on:
+    1. If the last syllable is ultraheavy, it is stressed.
+    1. Otherwise, the last heavy or ultraheavy syllable is stressed.
+    1. Otherwise, the first syllable is stressed.
+
+### Vocabulary
+
+
+<!-- Keep the below here for printing the entire lesson. Remeber to add <print-section> at the beginning of each lesson-->
+</print-section>
