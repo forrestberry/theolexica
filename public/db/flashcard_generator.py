@@ -8,9 +8,18 @@ cursor = conn.cursor()
 
 # Query to fetch data for flashcards
 query = '''
-SELECT v.akkadian, v.gloss AS akkadian_gloss, v.huehnergard, p.pos, v.hebrew_cognate, v.hebrew_gloss
+SELECT 
+    v.akkadian, 
+    v.gloss AS akkadian_gloss, 
+    v.huehnergard, 
+    p.pos,
+    g.gender AS gender,
+    v.hebrew_cognate, 
+    v.hebrew_gloss,
+    v.note
 FROM vocabulary v
 LEFT JOIN part_of_speech p ON v.part_of_speech = p.id
+LEFT JOIN gender g on v.gender_id = g.id
 '''
 
 # Fetch the data
@@ -23,9 +32,15 @@ def create_flashcards(data):
     akkadian_to_english = {}
     
     for row in data:
-        akkadian, akkadian_gloss, huehnergard, pos, hebrew_cognate, hebrew_gloss = row
+        akkadian, akkadian_gloss, huehnergard, pos, gender, hebrew_cognate, hebrew_gloss, note = row
         
-        extra_info = f'Part of Speech: {pos}'
+        extra_info = ''
+        if pos:
+            extra_info += f'Part of Speech: {pos}'
+        if gender:
+            extra_info += f'\nGender: {gender}'
+        if note:
+            extra_info += f'\nNote: {note}'
         if hebrew_cognate and hebrew_gloss:
             extra_info += f'\nHebrew Cognate: {hebrew_cognate} ({hebrew_gloss})'
         

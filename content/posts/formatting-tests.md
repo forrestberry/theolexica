@@ -9,7 +9,9 @@ tags:
     - three
 ---
 
-# Test
+## Test
+
+**Note**: Keep the highest level heading to an H2. The post title is an H1.
 
 *Tests* with **some** [sample](http://google.com/) ***formatting***.
 

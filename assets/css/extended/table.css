@@ -4,6 +4,11 @@ table {
     display: table;
     width: unset;
 }
+caption {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
 th {
     background-color: var(--tertiary);
     min-width: unset !important;

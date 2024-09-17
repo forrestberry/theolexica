@@ -1,7 +1,7 @@
 baseURL: https://theolexica.org/
 languageCode: en-us
 title: Theolexica
-theme: ["PaperMod", "XMin"] 
+theme: ["PaperMod"] 
 markup:
   goldmark:
     renderer:
@@ -15,12 +15,19 @@ module:
       target: content/posts
     - source: content/
       target: content
+    - source: /Users/forrest/Documents/notes/public/posts/akkadian
+      target: content/posts/akkadian
+
 
 menu:
   main:
-    - identifier: archive
-      name: archive
-      url: /archives
+    - identifier: Akkadian
+      name: akkadian
+      url: /tags/akkadian
+      weight: 10
+    - identifier: Hebrew
+      name: hebrew
+      url: /tags/hebrew
       weight: 20
     - identifier: search
       name: search 
@@ -38,18 +45,20 @@ Params:
   # General/Home
   env: production
   title: Theolexica
-  description: test
   author: Forrest Berry
-  keywords: [Greek, Hebrew, Bible, Seminary, Anki, Pastor, Preaching, Study]
+  keywords: [Greek, Hebrew, Akkadian, Latin, Bible, Seminary, Anki, Pastor, Preaching, Study]
   homeInfoParams:
     Title: Theolexica
-    Content: Tools for mastering the Biblical text and other miscellany.
+    Content: I'm working on mastering the Biblical languages. These are my notes and tools. Everything is a draft.
   # Posts
   ShowReadingTime: true
   ShowWordCount: false
   ShowCodeCopyButtons: true
-  showtoc: false
-  tocopen: false
+  showtoc: true 
+  tocopen: true
   #RSS
   ShowFullTextinRSS: true
   ShowRssButtonInSectionTermList: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  hideSummary: false
