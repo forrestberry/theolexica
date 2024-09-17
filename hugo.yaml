@@ -40,6 +40,7 @@ outputs:
     - RSS
     - JSON # necessary for search
 
+
 # PaperMod Theme Params https://github.com/adityatelange/hugo-PaperMod/wiki/Variables
 Params:
   # General/Home
@@ -62,3 +63,7 @@ Params:
   ShowPostNavLinks: false
   ShowBreadCrumbs: false
   hideSummary: false
+  editPost:
+    URL: "https://github.com/forrestberry/theolexica/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
