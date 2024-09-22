@@ -58,6 +58,6 @@ Params:
   ShowBreadCrumbs: false
   hideSummary: false
   editPost:
-    URL: "https://github.com/forrestberry/theolexica/content"
+    URL: "https://github.com/forrestberry/theolexica/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
