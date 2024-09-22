@@ -13,3 +13,5 @@ tags:
 ---
 
 - Zadokite Priesthood
+- Gerizim Temple
+- Sanballat
