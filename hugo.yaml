@@ -9,14 +9,14 @@ markup:
 
 module:
   mounts:
-    - source: /Users/forrest/Documents/notes/public
-      target: content/posts
+    #- source: /Users/forrest/Documents/notes/public
+    #  target: content/posts
     - source: content/posts
       target: content/posts
     - source: content/
       target: content
-    - source: /Users/forrest/Documents/notes/public/posts/akkadian
-      target: content/posts/akkadian
+    #- source: /Users/forrest/Documents/notes/public/posts/akkadian
+      #target: content/posts/akkadian
 
 
 menu:
