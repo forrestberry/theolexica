@@ -22,25 +22,29 @@ tags:
         <th></th>
         <th>singular</th>
         <th>dual</th>
-        <th>plural</th>
+        <th>plural masc</th>
+        <th>plural fem</th>
     </tr>
     <tr>
         <th>nominative</th>
         <td>—um</td>
         <td>—ān</td>
         <td>—ū</td>
+        <td>—um</td>
     </tr>
     <tr>
         <th>genitive</td>
         <td>—im</td>
         <td>—īn</td>
         <td>—ī</td>
+        <td>—im</td>
     </tr>
     <tr>
         <th>accusative</th>
         <td>—am</td>
         <td>—īn</td>
         <td>—ī</td>
+        <td>—im</td>
     </tr>
 </table>
 

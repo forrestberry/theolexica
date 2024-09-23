@@ -65,8 +65,6 @@ a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z
 </table>
 </print-section>
 
-### Vowels
-
 <print-section>
 <table>
     <caption>Vowels</caption>
@@ -107,10 +105,12 @@ a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z
 </table>
 </print-section>
 
+### Notes on the Vowels
+
 - The length of the vowels is an important part of the spelling. (mutum ‘husband’ vs mūtum ‘death’)
 - Long vowels are marked either with a macron, ā, or with a circumﬂex, â depending on the origin of the length (see Lesson 6).
 
-### Consonants
+### Notes on the Consonants
 
 - w does not occur before other consonants 
     - except itself

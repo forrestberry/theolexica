@@ -51,7 +51,7 @@ def create_flashcards(data):
                 'back': akkadian,
                 'extra': extra_info,
                 'source': f'A Grammar Of Akkadian Third Edition by John Huehnergard, Lesson {huehnergard}',
-                'tags': f'Akkadian Akkadian∷Lesson{huehnergard} Akkadian∷Vocabulary Vocabulary'
+                'tags': f'Akkadian Akkadian::Lesson{huehnergard} Akkadian::Vocabulary Vocabulary'
             }
         else:
             # Append new Akkadian word to back, separated by a newline
@@ -67,7 +67,7 @@ def create_flashcards(data):
                 'back': akkadian_gloss,
                 'extra': extra_info,
                 'source': f'A Grammar Of Akkadian Third Edition by John Huehnergard, Lesson {huehnergard}',
-                'tags': f'Akkadian Akkadian∷Lesson{huehnergard} Akkadian∷Vocabulary Vocabulary'
+                'tags': f'Akkadian Akkadian::Lesson{huehnergard} Akkadian::Vocabulary Vocabulary'
             }
         else:
             # Update count for additional glosses
