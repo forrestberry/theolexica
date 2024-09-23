@@ -23,3 +23,6 @@ tags:
 - Class
     - Lecture thru the wheelock exercises
 
+## Latin Notes
+
+- Memorize ille and hic paradigms

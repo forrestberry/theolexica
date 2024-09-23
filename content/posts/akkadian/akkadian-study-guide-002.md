@@ -45,19 +45,20 @@ tags:
     </tr>
 </table>
 
-**Note:** The genitive and accusative are identical in the dual and plural.
-
 ### Case
-- There are three cases: nominative, genitive, accusative
+- nominative: subjects, nominal predicates
+- genitive: possession, noun-noun modification, after prepositions
+- accusative: direct object, adverbial expressions
 
 ### Gender
 - There are two genders: masculine and feminine.
-- Feminine is generally marked out by an *t* infix. 
+- Feminine is generally marked out by a *t* infix. 
     - For phonological reasons, the *t* can be preceeded by an *a* when the base ends in two consonants. (See syllable rules in chapter 1.)
     - e.g. il*t*um, šarr*at*um
 - Exceptions:
     - Some nouns that look masculine are feminine and vice versa.
-    - Some nouns that are masculine in the singular are feminine in the plural (and vice versa).
+    - Some nouns that are masculine in the singular are feminine in the plural.
+        - But all singular feminine nouns are feminine in the plural.
     - Some nouns are variable gender.
     - Masculine is the common plural.
     - Exceptions need to be memorized.
@@ -79,6 +80,12 @@ tags:
     - In the feminine, end in *m* (mimation)
     - Some words occur only in plural.
     - "Collectives" are collective nouns that describe groups and can be construed in singular or plural (e.g. ṣābum: singular= worker, solder; collective= gang, troop)
+
+### Miscellaneous
+- There is no definite or indefinite marker. Context determines.
+- Final -m is called mimation
+- Final -n is called nunation
+
 
 ## 2.2 Prepositions
 
