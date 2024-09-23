@@ -22,8 +22,8 @@ tags:
         <th></th>
         <th>singular</th>
         <th>dual</th>
-        <th>plural masc</th>
-        <th>plural fem</th>
+        <th>plural (m)</th>
+        <th>plural (f)</th>
     </tr>
     <tr>
         <th>nominative</th>
@@ -35,20 +35,15 @@ tags:
     <tr>
         <th>genitive</td>
         <td>—im</td>
-        <td>—īn</td>
-        <td>—ī</td>
-        <td>—im</td>
+        <td rowspan=2>—īn</td>
+        <td rowspan=2>—ī</td>
+        <td rowspan=2>—im</td>
     </tr>
     <tr>
         <th>accusative</th>
         <td>—am</td>
-        <td>—īn</td>
-        <td>—ī</td>
-        <td>—im</td>
     </tr>
 </table>
-
-TODO: Update above table with feminine plural (N -um, G/A -im)
 
 **Note:** The genitive and accusative are identical in the dual and plural.
 
