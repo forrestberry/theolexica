@@ -27,7 +27,7 @@ Non-goal: to be a cliff-notes or drop in replacement for the grammar. (Much of t
 
 ## Study Guides 
 
-- [Introduction]({{< ref akkadian-study-guide-000 >}})
+- [Intro]({{< ref "akkadian-study-guide-000.md" >}}) 
 - [Lesson 1]({{< ref akkadian-study-guide-001 >}})
 - [Lesson 2]({{< ref akkadian-study-guide-002 >}}) 
 

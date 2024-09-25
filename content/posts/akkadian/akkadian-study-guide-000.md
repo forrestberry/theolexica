@@ -12,7 +12,6 @@ tags:
 
 {{< akkadian-study-guide-toc >}}
 
-
 <print-section>
 
 ## Introduction
