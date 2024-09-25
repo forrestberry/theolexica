@@ -1,6 +1,6 @@
 ---
 title: A Latin Dictionary at My Fingertips
-date: 2024-09-24T20:28:19-07:00
+date: 2024-09-24
 draft: false
 tags:
     - Alfred
@@ -14,7 +14,7 @@ I am taking up Latin again. My grammar is still decent by my vocabulary is prett
 
 Command + \<space\>, followed by the letter 'l', and I can start typing a Latin word and the dictionary populates before my eyes.  
 
-![Alfred Image of clavis](/images/alfred-clavis.png)
+![Alfred Image of clavis](images/alfred-clavis.png)
 
 Here is the script:
 
