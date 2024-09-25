@@ -21,13 +21,13 @@ I am making these as I learn. I am not an expert. Use at your own risk.
 
 Outline the bare-bones of the grammar in an easily digestible and memorizable format.
 
-Include an flashcard deck for each section. I use [anki](https://apps.ankiweb.net) and I [recommend that you do too]({{ relref "anki.md" }}). The flash cards are in csv format.
+Include an flashcard deck for each section. I use [anki](https://apps.ankiweb.net) and I [recommend that you do too]({{< ref "../anki.md" >}}). The flash cards are in csv format.
 
 Non-goal: to be a cliff-notes or drop in replacement for the grammar. (Much of this information will be incomprehensible without the grammar.)
 
 ## Study Guides 
 
 - [Intro]({{< ref "akkadian-study-guide-000.md" >}}) 
-- [Lesson 1]({{< ref akkadian-study-guide-001 >}})
-- [Lesson 2]({{< ref akkadian-study-guide-002 >}}) 
+- [Lesson 1]({{< ref "akkadian-study-guide-001.md" >}})
+- [Lesson 2]({{< ref "akkadian-study-guide-002.md" >}}) 
 
