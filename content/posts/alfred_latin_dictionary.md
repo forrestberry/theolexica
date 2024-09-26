@@ -14,7 +14,7 @@ I am taking up Latin again. My grammar is still decent by my vocabulary is prett
 
 Command + \<space\>, followed by the letter 'l', and I can start typing a Latin word and the dictionary populates before my eyes.  
 
-![Alfred Image of clavis](/static/images/alfred-latin-lookup.gif)
+![Alfred Image of clavis](/images/alfred-latin-lookup.gif)
 
 Here is the script:
 
