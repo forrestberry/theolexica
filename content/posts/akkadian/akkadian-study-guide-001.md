@@ -10,7 +10,7 @@ tags:
   - Anki
 ---
 
- [akkadian-study-guide-toc]({{< ref "akkadian-study-guide-toc" >}})
+ < akkadian-study-guide-toc >
 
 <print-section>
 
@@ -108,7 +108,7 @@ a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z
 ### Notes on the Vowels
 
 - The length of the vowels is an important part of the spelling. (mutum ‘husband’ vs mūtum ‘death’)
-- Long vowels are marked either with a macron, ā, or with a circumﬂex, â depending on the origin of the length (see Lesson 6).
+- Long vowels are marked either with a macron, *ā*, or with a circumﬂex, *â*, depending on the origin of the length (see Lesson 6).
 
 ### Notes on the Consonants
 
