@@ -10,7 +10,7 @@ tags:
   - Anki
 ---
 
-{{< akkadian-study-guide-toc >}}
+<akkadian-toc></akkadian-toc>
 
 <print-section>
 
