@@ -106,6 +106,6 @@ tags:
 
 </print-section>
 
-[Download Anki Deck](/static/anki/akkadian_000.apkg)
+[Download Anki Deck](/anki/akkadian_000.apkg)
 
 
