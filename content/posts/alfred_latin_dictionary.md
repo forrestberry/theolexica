@@ -16,6 +16,18 @@ Command + \<space\>, followed by the letter 'l', and I can start typing a Latin 
 
 ![Alfred Image of clavis](/images/alfred-latin-lookup.gif)
 
+[Download the Alfred Workflow](/anki/Latin%20Dictionary.alfredworkflow)
+
+The Alfred Workflow is all you need. But if you are interested in how it is made, continue reading:
+
+
+See the [Alfred Docs on creating workflows](https://www.alfredapp.com/help/workflows/).
+
+This is a simple workflow that uses a script filter and copy to clipboard block.
+
+![Alfred Latin Dictionary Workflow Image](/images/alfred-latin-dictonary-workflow.png)
+
+
 Here is the script:
 
 ```
@@ -98,5 +110,14 @@ if __name__ == '__main__':
 
 ```
 
-The only trick was adding a User-agent in the header to prevent a 403 error.
+The only trick with the API was adding a User-agent in the header to prevent a 403 error. The API page has info about API auth that you can get when creating an account. I created an account and could not find it. I messaged the site and did not recieve a response, so this works for now.
+
+Here is how the script is setup in Alfred:
+
+![Alfred Latin Dictionary Script Image](/images/alfred-latin-dictonary-script.png)
+
+To get the live search, set the Queue Delay to "Immediately after each character typed".
+![Alfred Latin Dictionary Script Run Settings Image](/images/alfred-latin-dictonary-run-settings.png)
+
+That's it. You have a fast Latin Dictionary at your fingertips.
 
