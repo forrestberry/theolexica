@@ -15,4 +15,4 @@ tags:
 - Zadokite Priesthood
 - Gerizim Temple
 - Sanballat
-- Temple mortgages under the Ptolemaic dynasty
+- [Temple Mortgages in Ptolemaic Dynasty]({{< ref "temple-mortgages.md" >}})
