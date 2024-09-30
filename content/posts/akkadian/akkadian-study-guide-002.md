@@ -49,6 +49,7 @@ tags:
 - nominative: subjects, nominal predicates
 - genitive: possession, noun-noun modification, after prepositions
 - accusative: direct object, adverbial expressions
+- oblique: the combined genitive/accusative case is sometimes referred to as oblique
 
 ### Gender
 - There are two genders: masculine and feminine.
@@ -152,7 +153,7 @@ tags:
 - Copulative sentences are formed by juxtaposing the subject and predicate. 
 - Called verbless or nominative clauses
 - If subject is a noun, it stands at beginning of the clause.
-- If subjecf is a pronoun, it stands at the end of the clause.
+- If subject is a pronoun, it stands at the end of the clause.
 - Tense is determined by context.
 
 *amātum ina ālim* "The maidservants are/were/will be in the town."
@@ -167,4 +168,4 @@ tags:
 
 </print-section>
 
-TODO: Anki deck
+[Anki Deck](/anki/akkadian_002.apkg)
