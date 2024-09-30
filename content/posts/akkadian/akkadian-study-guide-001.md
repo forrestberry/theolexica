@@ -232,4 +232,4 @@ a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z
 <!-- Keep the below here for printing the entire lesson. Remeber to add <print-section> at the beginning of each lesson-->
 </print-section>
 
-**TODO:** Link to Anki vocabulary and anki study guide
+[Anki Deck](/anki/akkadian_001.apkg)
