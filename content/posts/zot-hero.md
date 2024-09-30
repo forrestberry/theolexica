@@ -12,11 +12,13 @@ tags:
     - Writing
 ---
 
-I use [Zotero](https://www.zotero.org), and you should too. It's awesome. You should never ever spend time on formatting your bibliography or footnotes. You also should not by keeping a long list of books and references by hand. Let Zotero take care of all of that.
+I use [Zotero](https://www.zotero.org), and you should too. It's awesome. You should never ever spend time on formatting your bibliography or footnotes. Your time is better spent researching than in formatting your research.
+
+You also should not be keeping a long list of books and references by hand. Let Zotero take care of all of that.
 
 If you are writing in Word, use the [Zotero Word Plugin](https://www.zotero.org/support/word_processor_plugin_usage). It's great. Instantly insert footnotes and build a bibliography with a click of a button.
 
-If you are taking notes in something like [Obsidian]({{< ref "https://obsidian.md" >}}), it can be a pain to reference a work. Enter [Zot Hero](https://github.com/deanishe/zothero). 
+But if you are taking notes in markdown or in something like [Obsidian]({{< ref "https://obsidian.md" >}}), it can be a pain to reference a work. Enter [Zot Hero](https://github.com/deanishe/zothero). 
 
 This puts your Zotero library at your fingertips. Open Alfred, trigger Zot Hero with `zot`, and get your book. This enables you to stay in the flow while you are writing.
 
