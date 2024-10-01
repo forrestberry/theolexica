@@ -3,7 +3,12 @@ title: Sardis Temple Mortgage Inscriptions
 date: 2024-09-27 19:31:10
 draft: false
 tags:
-    - 
+    - Second Temple Judaism
+    - Temple Mortgages
+    - Research
+    - TMS
+    - ANE
+    - Ptolemy
 ---
 
 [Temple Mortgages]({{< ref "temple-mortgages.md" >}})
