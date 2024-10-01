@@ -30,20 +30,22 @@ tags:
         <td>—um</td>
         <td>—ān</td>
         <td>—ū</td>
-        <td>—um</td>
+        <td>—ātum</td>
     </tr>
     <tr>
         <th>genitive</td>
         <td>—im</td>
         <td rowspan=2>—īn</td>
         <td rowspan=2>—ī</td>
-        <td rowspan=2>—im</td>
+        <td rowspan=2>—ātim</td>
     </tr>
     <tr>
         <th>accusative</th>
         <td>—am</td>
     </tr>
 </table>
+
+Technically the feminine endings are *—um*, *—im*, but the āt infix (see below) is perfectly regular.
 
 ### Case
 - nominative: subjects, nominal predicates
