@@ -53,6 +53,8 @@ Note: some verbs can be in more than one category.
 
 ## 3.5 G Preterite
 
+### Form
+
 - The base is R<sub>1</sub>R<sub>2</sub>VR<sub>3</sub>.
     - The V is **theme vowel**.
     - The theme vowel is always short in the G preterite.
@@ -93,6 +95,31 @@ Note: some verbs can be in more than one category.
     </tr>
 </table>
 
+- Notice that the 3ms and 3fs are the same. These can be condensed to 3cs.
+- Same for 2mp and 2fp.
+
+### Meaning
+
+- Preterite is punctual (viewed as having occurred at single point in time) 
+- Best translated as single past tense.
+- The pronominal subject (I, you, etc.) is implicit in the verb.
+    - Independent pronouns are added for:
+        - emphasis
+        - enumerating the subject (you and I (we) went...)
+        - Independent pronouns stand at the beginning of verbal clauses (contra verbless clauses).
+
+## 3.6 Word Order
+
+- Normal word order is Subject — Direct Object — Adjunct — Verb.
+- Adjuncts are all adverbs, prepositional phrases, indirect objects, etc.
+- Can be rearranged.
+- Verb is ALWAYS last.
+- Verbs must agree with their subjects in person, gender, and number.
+    - Dual subjects are usually treated as feminine plural even when they are masculine.
+    - Compound subjects take plural verbs.
+        - If any member is masculine, the verb is masculine.
+    - Collective nouns can take singular or plural verbs.
 
 </print-section>
 
+TODO: Anki Deck
