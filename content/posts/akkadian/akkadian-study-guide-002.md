@@ -75,7 +75,7 @@ Technically the feminine endings are *—um*, *—im*, but the āt infix (see be
     - Genitive and accusative have the same form
     - end in *n* (nunation)
     - Adjectives, verbs, and pronouns do not have dual forms (in OB).
-        - dual nouns have plural agreement.
+        - dual nouns have **feminine** plural agreement.
 - Plural
     - Genitive and accusative have the same form.
     - In the masculine, the ending is a macron-long version of the singular vowel ending. (um -> ū, im -> ī)
