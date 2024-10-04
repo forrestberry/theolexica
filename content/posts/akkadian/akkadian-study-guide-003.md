@@ -59,6 +59,7 @@ Note: some verbs can be in more than one category.
     - The V is **theme vowel**.
     - The theme vowel is always short in the G preterite.
     - The theme vowel is unpredictable and must be memorized per root.
+        - *iškun* > *šakānum*, *išriq* > *šarāqum*, iṣbat > ṣabātum
 - Prefixes and suffixes are added to decline the verb.
 
 <table>
@@ -97,6 +98,41 @@ Note: some verbs can be in more than one category.
 
 - Notice that the 3ms and 3fs are the same. These can be condensed to 3cs.
 - Same for 2mp and 2fp.
+
+<table>
+    <caption><em>Paras</em> Preterite Form</caption>
+    <tr>
+        <th></th>
+        <th>Singular</th>
+        <th>Plural</th>
+    </tr>
+    <tr>
+        <th>3m</th>
+        <td>iprus</td>
+        <td>iprusū</td>
+    </tr>
+    <tr>
+        <th>3f</th>
+        <td>iprus</td>
+        <td>iprusā</td>
+    </tr>
+    <tr>
+        <th>2m</th>
+        <td>taprus</td>
+        <td>taprusā</td>
+    </tr>
+    <tr>
+        <th>2f</th>
+        <td>taprusī</td>
+        <td>taprusā</td>
+    </tr>
+    <tr>
+        <th>1c</th>
+        <td>aprus</td>
+        <td>niprus</td>
+    </tr>
+</table>
+
 
 ### Meaning
 
