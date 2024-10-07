@@ -1,5 +1,5 @@
 ---
-title: Akkadian Study Guide Intro
+title: Akkadian Grammar Study Guide Intro
 date: 2024-08-04
 draft: false
 tags:
