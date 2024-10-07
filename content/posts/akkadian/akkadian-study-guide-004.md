@@ -14,7 +14,7 @@ tags:
 
 <print-section>
 
-## 4.1 Vowel Syncope
+## Vowel Syncope
 
 - Two [light syllables]({{< ref "akkadian-study-guide-001.md" >}}) cannot stand immediately next to one another.
     - If two stand next to each other, the second is **syncopated** (omitted). eg. \*\*napišātum > napšātum
@@ -24,7 +24,9 @@ tags:
         - before *r* and *l* (zikarum, ubilū)
         - other exceptions less frequently
 
-## 4.2 Attributive Adjective
+## Adjectives
+
+### Attributive Adjective
 
 - Directly modify a noun (*mighty kings*)
 - Follow the modified noun (*šarrū dannūtum*, mighty kings)
@@ -37,7 +39,13 @@ tags:
         - masculine plural endings are -ūtum, -ūtim
         - no dual adjectives; dual nouns take a **feminine plural** adjective
 
-## 4.3 The G Verbal Adjective
+### Substantizing Adjectives
+
+- Any adjective can be used as a noun.
+- In the masculine plural, the noun (-um/im) or adjective (-ūtum/ūtim) endings may be used.
+- Feminine singular *may* be used as an abstract noun (eg. *damqum* = "the good man", but *damiqtum* = "goodness")
+
+### The G Verbal Adjective
 
 - Many adjectives are formed from the [verbal root]({{< ref "akkadian-study-guide-003.md" >}}).
     - not all verbal roots have attested verbal adjectives
@@ -49,7 +57,7 @@ tags:
     - *V* is not necessarily the same as the theme vowel
 
 <table>
-    <caption>Stem Damiq-</caption>
+    <caption>Damāqum (Stem Damiq-)-</caption>
     <thead>
         <tr>
           <th></th>
@@ -79,16 +87,10 @@ tags:
     </tbody>
 </table>
 
-## 4.4 Substantizing Adjectives
-
-- Any adjective can be used as a noun.
-- In the masculine plural, the noun (-um/im) or adjective (-ūtum/ūtim) endings may be used.
-- Feminine singular *may* be used as an abstract noun (eg. *damqum* = "the good man", but *damiqtum* = "goodness")
-
-## 4.5 *ul(a)*
+## *ul(a)*
 
 - Negates the predicate of a main clause
-- Placed immediately before the verb. (*ḫuraṣam ina bītim um aṣbat*)
+- Placed immediately before the verb. (*ḫuraṣam ina bītim ul aṣbat*)
 - If no verb, placed immediately before predicate. (*ul šarrum ša Bābilim šu*)
 
 </print-section>

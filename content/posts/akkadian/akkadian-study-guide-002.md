@@ -14,7 +14,7 @@ tags:
 
 <print-section>
 
-## 2.1 Nouns
+## Nouns
 
 <table>
     <caption>Noun Endings</caption>
@@ -90,19 +90,19 @@ Technically the feminine endings are *—um*, *—im*, but the āt infix (see be
 - Final -n is called nunation
 
 
-## 2.2 Prepositions
+## Prepositions
 
 - Most prepositions are two-syllable words ending in a short vowel.
 - Nouns following prepositions are always in the genitive.
 
-## 2.3 ša
+## ša
 
 - ša means "the one of"
 - usually occurs in apposition to a preceeding noun
 - the following noun appears in the genitive
 - eg šarrum ša Bābilim (king of Babylon)
 
-## 2.4 Independent Personal Pronouns
+## Independent Personal Pronouns
 
 <table>
     <tr>
@@ -149,7 +149,7 @@ Technically the feminine endings are *—um*, *—im*, but the āt infix (see be
 
 - Used in subjects of verbless clauses (see more uses in Chapter 3)
 
-## 2.5 Verbless Clauses
+## Verbless Clauses
 
 - No being verb in Akkadian.
 - Copulative sentences are formed by juxtaposing the subject and predicate. 

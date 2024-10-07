@@ -14,7 +14,7 @@ tags:
 
 <print-section>
 
-## 1.1 Alphabet and Sounds of Akkadian
+## Alphabet and Sounds of Akkadian
 
 <div style="text-align: justify; text-justify: inter-word; margin-bottom: 20px">
 a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z
@@ -160,7 +160,7 @@ a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z
 </print-section>
     - note the coorespondences in the physiology (e.g. b & p are formed the same way in the mouth, one is voiced, one not)
 
-## 1.2 Syllables
+## Syllables
 
 - The writing system is based on syllables. Therefore crucial to master syllabification!
 - Three rules:
@@ -170,7 +170,7 @@ a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z
         - except the second of two vowels (kiam -> ki / am)
     1. No syllable may begin or end with two consonants
 
-## 1.3 Accents
+## Accents
 
 - Three types of syllables:
     1. light - ends in a short vowel

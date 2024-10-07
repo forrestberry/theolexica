@@ -14,7 +14,7 @@ tags:
 
 <print-section>
 
-## 3.1 The Semantic Root
+## The Semantic Root
 
 - Semitic languages are built on a consonantal root pattern.
 - Generally there are three consonants that form the basis for many derivatives.
@@ -24,22 +24,9 @@ tags:
 - **p-r-s** is the traditional paradigmatic root.
     - sometimes R<sub>1</sub>R<sub>2</sub>R<sub>3</sub> and V are used instead.
 
-## 3.2 Verb Morphology: Intro
+## Verbs
 
-- G-stem also called *Grundstamm* is the basic stem.
-
-## 3.3 G Infinitive
-
-- The infinitive is a **declinable noun**, meaning that it has noun endings.
-    - Plural forms of the infinitive do not exist.
-- It follows the *parās* + noun ending pattern. (*šakānum*, *šakānim*)
-- Infinitives following prepositions often have special meanings that must be memorized.
-- All verbs are listed under the infinitive in modern Akkadian dictionaries.
-- Infinitive is often best translated with a gerund.
-wardum ina *šakānim* ša ḫurāṣim imqut
-The slave fell when stealing the gold.
-
-## 3.4 Verb Semantics
+### Verb Semantics
 
 - Active-transitive: 
     - take a direct object
@@ -51,9 +38,30 @@ The slave fell when stealing the gold.
 
 Note: some verbs can be in more than one category.
 
-## 3.5 G Preterite
+### Verb Stems
 
-### Form
+- Semitic verbs appear in **stems**.
+    - Stems affect the formation and meaning of the verb.
+    - (Equivalent to *binyanim* in modern Hebrew designations.
+    - Learning the G-stem, also called *Grundstamm*.
+        - It is the "basic" stem.
+        - Equivalent to the Hebrew Qal stem.
+
+### G Infinitive
+
+- The infinitive is a **declinable noun**, meaning that it has noun endings.
+    - Plural forms of the infinitive do not exist.
+- It follows the *parās* + noun ending pattern. (*šakānum*, *šakānim*) (R<sub>1</sub>aR<sub>2</sub>āR<sub>3</sub>-noun ending)
+- Infinitives following prepositions often have special meanings that must be memorized.
+- All verbs are listed under the infinitive in modern Akkadian dictionaries.
+- Infinitive is often best translated with a gerund.
+wardum ina *šakānim* ša ḫurāṣim imqut
+The slave fell when stealing the gold.
+
+
+### G Preterite
+
+#### Form
 
 - The base is R<sub>1</sub>R<sub>2</sub>VR<sub>3</sub>.
     - The V is **theme vowel**.
@@ -100,7 +108,7 @@ Note: some verbs can be in more than one category.
 - Same for 2mp and 2fp.
 
 <table>
-    <caption><em>Paras</em> Preterite Form</caption>
+    <caption><em>Paras</em> G Preterite Form</caption>
     <tr>
         <th></th>
         <th>Singular</th>
@@ -133,8 +141,7 @@ Note: some verbs can be in more than one category.
     </tr>
 </table>
 
-
-### Meaning
+#### Meaning
 
 - Preterite is punctual (viewed as having occurred at single point in time) 
 - Best translated as single past tense.
@@ -144,7 +151,7 @@ Note: some verbs can be in more than one category.
         - enumerating the subject (you and I (we) went...)
         - Independent pronouns stand at the beginning of verbal clauses (contra verbless clauses).
 
-## 3.6 Word Order
+## Word Order
 
 - Normal word order is Subject — Direct Object — Adjunct — Verb.
 - Adjuncts are all adverbs, prepositional phrases, indirect objects, etc.
