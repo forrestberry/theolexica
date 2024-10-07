@@ -51,7 +51,7 @@ tags:
     - not all verbal roots have attested verbal adjectives
     - more rarely vice versa
     - meaning is related to the verbal root in a generally passive manner (i.e. "to strike" (*maḫaṣum*) becomes "struck" (*maḫṣum*), not "striking")
-- The G verbal adjective pattern is **parVs** (R<sub>1</sub>aR<sub>2</sub>VRr<sub>3</sub>), where *V* is a short vowel.
+- The G verbal adjective pattern is **parVs** (R<sub>1</sub>aR<sub>2</sub>VR<sub>3</sub>), where *V* is a short vowel.
     - most of the time *V* is *i*; must be memorized when not *i*
     - *V* is only visible in the feminine singular due to Vowel Syncope (above)
     - *V* is not necessarily the same as the theme vowel
@@ -67,22 +67,29 @@ tags:
       </thead>
       <tbody>
         <tr>
-            <th>Nom</td>
+            <th>Nom S</td>
             <td>damqum</td>
             <td>damiqtum</td>
         </tr>
         <tr>
-            <th>Gen</td>
+            <th>Gen S</td>
             <td>damqim</td>
             <td>damiqtim</td>
         </tr>
         <tr>
-            <th>Acc</td>
+            <th>Acc S</td>
             <td>damqam</td>
             <td>damiqtam</td>
         </tr>
         <tr>
-            <td colspan=3>...</td>
+            <th>Nom P</td>
+            <td>damqūtum</td>
+            <td>damqātum</td>
+        </tr>
+        <tr>
+            <th>Gen/Acc P</td>
+            <td>damqūtim</td>
+            <td>damqātim</td>
         </tr>
     </tbody>
 </table>
