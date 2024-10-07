@@ -57,7 +57,7 @@ tags:
     - *V* is not necessarily the same as the theme vowel
 
 <table>
-    <caption>Damāqum (Stem Damiq-)-</caption>
+    <caption>Damāqum (Stem Damiq-)</caption>
     <thead>
         <tr>
           <th></th>
