@@ -140,7 +140,7 @@ Technically the feminine endings are *—um*, *—im*, but the āt infix (see be
     </tr>
     <tr>
         <th>3f</th>
-        <td>ši</td>
+        <td>šī</td>
         <td>‘she, it (f)’</td>
         <td>šina</td>
         <td>‘they (f)’</td>
