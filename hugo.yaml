@@ -6,7 +6,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true #allows html in markdown
-
+    extensions:
+      footnote: true
 #module:
   #mounts:
     #- source: content/

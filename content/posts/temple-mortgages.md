@@ -13,7 +13,11 @@ tags:
 
 [Return to Paper Ideas]({{< ref "paper-ideas.md" >}})
 
-- Idea from [Athas, 458-463](https://www.everand.com/read/732669995/Bridging-the-Testaments-The-History-and-Theology-of-God-s-People-in-the-Second-Temple-Period)[^1]
+## Idea
+
+I am researching the role of the temple as a bank in Second Temple Judaism. This has direct bearing on the practice of the laws of dedication and Jesus' reaction to the moneychangers.
+
+- Idea from [Athas, 458-463](https://www.everand.com/read/732669995/Bridging-the-Testaments-The-History-and-Theology-of-God-s-People-in-the-Second-Temple-Period) [^1]
     - Jews and Samaritan's likely mortgaged (consecrated) their homes to the temple in order to get cash as the economy moved to a monetary system. 
     - Concept of consecrating from Torah (Lev 27:14-21). 
     - A flat 20% interest was better than the predatory practices of elites and slavery.
@@ -24,7 +28,7 @@ tags:
 - [Summary of the Artemis Temple Mortgage Docs]({{< ref "summary-mortgage-primary-docs.md" >}})
     - [sardis-inscriptions.md]({{< ref "sardis-inscriptions.md" >}})
 
-# Temple Treasury
+## Temple Treasury
 - Joshua 6:19
     - But all silver and gold, and every vessel of bronze and iron, are holy to the LORD; they shall go into the treasury of the LORD." (<span class="hebrew">אוֹצָר</span>)
 - [2 Maccabees 3:6 (https://bible.oremus.org/?passage=2%20Maccabees%203:6&version=nrsvae)
@@ -63,6 +67,6 @@ tags:
 
 
 
-[^1] George Athas, <i>Bridging the Testaments: The History and Theology of God’s People in the Second Temple Period</i> (Grand Rapids: Zondervan, 2023).
+[^1]: George Athas, <i>Bridging the Testaments: The History and Theology of God’s People in the Second Temple Period</i> (Grand Rapids: Zondervan, 2023).
 
 
