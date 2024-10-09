@@ -6,7 +6,7 @@ tags:
     - Bible
     - OT
     - Leviticus
-    - Temple Mortgage
+    - Temple Mortgages
 ---
 
 ## Leviticus 27:14-21
