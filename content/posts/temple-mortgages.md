@@ -25,7 +25,7 @@ I am researching the role of the temple as a bank in Second Temple Judaism. This
     - Criticism: no direct evidence for these temple mortgages at this time.
 
 ## Artemis Temple Analogy
-- [Summary of the Artemis Temple Mortgage Docs]({{< ref "summary-mortgage-primary-docs.md" >}})
+- [Summary of the Artemis Temple Mortgage Docs]({{< ref "sardis-inscription-summary.md" >}})
     - [sardis-inscriptions.md]({{< ref "sardis-inscriptions.md" >}})
 
 ## Temple Treasury
@@ -33,7 +33,7 @@ I am researching the role of the temple as a bank in Second Temple Judaism. This
     - But all silver and gold, and every vessel of bronze and iron, are holy to the LORD; they shall go into the treasury of the LORD." (<span class="hebrew">אוֹצָר</span>)
 - [2 Maccabees 3:6](https://bible.oremus.org/?passage=2%20Maccabees%203:6&version=nrsvae)
     - and reported to him that the treasury in Jerusalem was full of untold sums of money, so that the amount of the funds could not be reckoned, and that they did not belong to the account of the sacrifices, but that it was possible for them to fall under the control of the king.
-    - [2 Maccabees]({{< ref "2-maccabees.md" >}})
+    - [2 Maccabees Notes]({{< ref "2-maccabees.md" >}})
 - κορβανας
     - Matt 27:6
         - But the chief priests, taking the pieces of silver, said, "It is not lawful to put them into the treasury, since it is blood money. (κορβανᾶς)

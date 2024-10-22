@@ -8,6 +8,8 @@ tags:
     - Judaism
 ---
 
+[2 Maccabees]({{< ref "2-maccabees.md" >}})
+
 ## Summary
 During the high priesthood of Onias, Jerusalem enjoyed peace, and the temple was honored, even receiving royal support. A dispute between Onias and Simon, a temple official, led Simon to falsely report to Apollonius, the regional governor, that the temple treasury held vast sums. This prompted King Seleucus to send his minister, Heliodorus, to seize the funds.
 

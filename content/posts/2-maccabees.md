@@ -13,6 +13,10 @@ tags:
     - Second Temple
 ---
 
+[Apochrypha]({{< ref "apocrypha.md" >}})
+
+## Chapter Notes
+
 [2 Maccabees 3]({{< ref "2-maccabees-3.md" >}})
 
 ## Resources
