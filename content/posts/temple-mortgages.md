@@ -31,8 +31,9 @@ I am researching the role of the temple as a bank in Second Temple Judaism. This
 ## Temple Treasury
 - Joshua 6:19
     - But all silver and gold, and every vessel of bronze and iron, are holy to the LORD; they shall go into the treasury of the LORD." (<span class="hebrew">אוֹצָר</span>)
-- [2 Maccabees 3:6 (https://bible.oremus.org/?passage=2%20Maccabees%203:6&version=nrsvae)
+- [2 Maccabees 3:6](https://bible.oremus.org/?passage=2%20Maccabees%203:6&version=nrsvae)
     - and reported to him that the treasury in Jerusalem was full of untold sums of money, so that the amount of the funds could not be reckoned, and that they did not belong to the account of the sacrifices, but that it was possible for them to fall under the control of the king.
+    - [2 Maccabees]({{< ref "2-maccabees.md" >}})
 - κορβανας
     - Matt 27:6
         - But the chief priests, taking the pieces of silver, said, "It is not lawful to put them into the treasury, since it is blood money. (κορβανᾶς)
@@ -50,7 +51,6 @@ I am researching the role of the temple as a bank in Second Temple Judaism. This
     - TODO
 
 
-
 ## Biblical Texts
 - Leviticus 27:14-21
     - [Notes on Leviticus 27]({{< ref "leviticus-27.md" >}})
@@ -65,8 +65,15 @@ I am researching the role of the temple as a bank in Second Temple Judaism. This
     - John 2:13-16
         - The Passover of the Jews was at hand, and Jesus went up to Jerusalem. In the temple he found those who were selling oxen and sheep and pigeons, and the money-changers sitting there. And making a whip of cords, he drove them all out of the temple, with the sheep and oxen. And he poured out the coins of the money-changers and overturned their tables. And he told those who sold the pigeons, "Take these things away; do not make my Father's house a house of trade."
 
-
+## Later Jewish Commentary
+- Put onto this source by the article [Money Changers](https://www.jewishvirtuallibrary.org/money-changers)[^2], a short encyclopedia article about Jewish money changers. A great little introduction to the history of money-changing at the temple.
+- [Mishna Shekalim 2](https://www.sefaria.org/Mishnah_Shekalim.1?lang=bi&with=all&lang2=en)
+    - Information on the rules of the shekel collected by the money changers, how it was gathered, how it was spent, etc. Useful for further review.
+- [Mishna Shekalim 1:3](https://www.sefaria.org/Mishnah_Shekalim.1?lang=bi&with=all&lang2=en)
+    - short description of when the money changers would set up tables and who they would tax and how much.
 
 [^1]: George Athas, <i>Bridging the Testaments: The History and Theology of God’s People in the Second Temple Period</i> (Grand Rapids: Zondervan, 2023).
+[^2]: Sperber, Daniel. “Money Changers.” In Jewish Virtual Library, 2013. https://www.jewishvirtuallibrary.org/money-changers.
+
 
 

@@ -20,7 +20,7 @@ tags:
 - Generally there are three consonants that form the basis for many derivatives.
     - Each consonant is called a radical.
     - The sequence of radicals is called the root.
-- Derivatives are formed with vowel patters, prefixes, suffixes, and duplication.
+- Derivatives are formed with vowel patterns, prefixes, suffixes, and duplication.
 - **p-r-s** is the traditional paradigmatic root.
     - sometimes R<sub>1</sub>R<sub>2</sub>R<sub>3</sub> and V are used instead.
 
