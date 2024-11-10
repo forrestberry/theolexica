@@ -17,7 +17,7 @@ tags:
 ## Assimilation of *n*
 
 - *n* nearly always assimilates to the following consonant
-- the following consonant then doubles (called compensatory lengthening)
+- the following consonant then doubles (called *compensatory lengthening*)
     - *n*C<sub>1</sub> > C<sub>1</sub>C<sub>1</sub>
     - The verbal adjective of *šakānum* is *šaknum*. In the feminine singular, it is *\*\*šakintum* > *šakittum*.
 - Exceptions:
@@ -35,9 +35,9 @@ tags:
 - Weak verbs contain one or more radicals that are prone to phonological change.
 - Weak verbs identified with a Roman numeral and the weak consonant
     - e.g. I-*n*, identifies a verb with a first radical of *n*
-- The weak radicals are *n*, *ʾ*, *w*, *y*.
+- The weak radicals are *ʾ*, *y*, *n*, *w*.
     - *n* assimilates anywhere (not just verbs).
-    - *ʾ*, *w*, *y* generally only adjust in verbs.
+    - *ʾ*, *y*, *w* generally only adjust in verbs.
         - The generic designation "-weak", refers to the consonants *ʾ*, *w*, *y*.
 
 ### G Preterite I-*n* Verbs
@@ -91,5 +91,5 @@ tags:
 
 </print-section>
 
-TODO: Anki Deck
+[Anki Deck](/anki/akkadian_005.apkg)
 

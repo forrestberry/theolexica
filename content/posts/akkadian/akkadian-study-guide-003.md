@@ -42,7 +42,7 @@ Note: some verbs can be in more than one category.
 
 - Semitic verbs appear in **stems**.
     - Stems affect the formation and meaning of the verb.
-    - (Equivalent to *binyanim* in modern Hebrew designations.
+    - Equivalent to *binyanim* in modern Hebrew designations.
     - Learning the G-stem, also called *Grundstamm*.
         - It is the "basic" stem.
         - Equivalent to the Hebrew Qal stem.
@@ -57,6 +57,9 @@ Note: some verbs can be in more than one category.
 - Infinitive is often best translated with a gerund.
 wardum ina *šakānim* ša ḫurāṣim imqut
 The slave fell when stealing the gold.
+- Infinitive following a preposition may have a special meaning:
+    - *ana* + infin = in order to
+    - *ina* + infin = when, while, by
 
 
 ### G Preterite
@@ -146,10 +149,10 @@ The slave fell when stealing the gold.
 - Preterite is punctual (viewed as having occurred at single point in time) 
 - Best translated as single past tense.
 - The pronominal subject (I, you, etc.) is implicit in the verb.
-    - Independent pronouns are added for:
-        - emphasis
-        - enumerating the subject (you and I (we) went...)
-        - Independent pronouns stand at the beginning of verbal clauses (contra verbless clauses).
+- Independent pronouns are added for:
+    - emphasis
+    - enumerating the subject (you and I (we) went...)
+    - Independent pronouns stand at the beginning of verbal clauses (contra verbless clauses).
 
 ## Word Order
 
@@ -165,4 +168,5 @@ The slave fell when stealing the gold.
 
 </print-section>
 
-TODO: Anki Deck
+[Anki Deck](/anki/akkadian_003.apkg)
+

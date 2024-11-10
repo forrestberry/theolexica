@@ -108,7 +108,7 @@ a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z
 ### Notes on the Vowels
 
 - The length of the vowels is an important part of the spelling. (mutum ‘husband’ vs mūtum ‘death’)
-- Long vowels are marked either with a macron, *ā*, or with a circumﬂex, *â*, depending on the origin of the length (see Lesson 6).
+- Long vowels are marked either with a macron, *ā*, or with a circumﬂex, *â*, depending on the origin of the length (see [Lesson 6]({{< ref "akkadian-study-guide-006.md" >}})).
 
 ### Notes on the Consonants
 
@@ -123,7 +123,7 @@ a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z
 - all consonants can be doubled
 - b, d, g, z are "voiced"
 - p, t, k, s are "voiceless"
-- q, ṣ, ṭ are "emphatic" (important later, see Lesson 9)
+- q, ṣ, ṭ are "emphatic" (important later, see [Lesson 9]({{< ref "akkadian-study-guide-009.md" >}}))
 
 <print-section>
 <table>

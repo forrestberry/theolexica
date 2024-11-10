@@ -86,7 +86,7 @@ tags:
 </table>
 </print-section>
 
-- *Learning Old Babylonian in this couse*
+- *Learning Old Babylonian in this course*
 
 ### Research Tools and Context
 

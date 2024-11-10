@@ -28,16 +28,16 @@ tags:
 
 ### Attributive Adjective
 
+- Endings are the same as [nouns]({{< ref "akkadian-study-guide-002.md" >}}).
+    - Exceptions:
+        - masculine plural endings are -ūtum, -ūtim
+        - no dual adjectives; dual nouns take a **feminine plural** adjective
 - Directly modify a noun (*mighty kings*)
 - Follow the modified noun (*šarrū dannūtum*, mighty kings)
 - Agree with the noun in gender, number, case
 - Can modify more than one noun (compound antecedent)
     - takes a plural adjective (*abum u mārum dannūtum*, the mighty father and son)
     - mixed gender takes a masculine adjective (*abum u ummum dannūtum*, the mighty father and mother)
-- Endings are the same as [nouns]({{< ref "akkadian-study-guide-002.md" >}}).
-    - Exceptions:
-        - masculine plural endings are -ūtum, -ūtim
-        - no dual adjectives; dual nouns take a **feminine plural** adjective
 
 ### Substantizing Adjectives
 
@@ -102,5 +102,5 @@ tags:
 
 </print-section>
 
-TODO: Anki Deck
+[Anki Deck](/anki/akkadian_004.apkg)
 
