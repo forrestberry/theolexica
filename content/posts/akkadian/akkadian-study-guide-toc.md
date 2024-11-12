@@ -37,3 +37,5 @@ Non-goal: to be a cliff-notes or drop in replacement for the grammar. (Much of t
 - [Lesson 7]({{< ref "akkadian-study-guide-007.md" >}})
 - [Lesson 8]({{< ref "akkadian-study-guide-008.md" >}})
 - [Lesson 9]({{< ref "akkadian-study-guide-009.md" >}})
+- ...
+- [Lesson 16]({{< ref "akkadian-study-guide-016.md" >}})

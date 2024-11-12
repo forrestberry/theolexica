@@ -48,7 +48,7 @@ tags:
 
 ### *Annum* (This/these)
 
-This paradigm demonstrates the effect of the aleph and the vowel changes. *annum* in Proto-Semitic was *\*hanniy-*. The *h* is dropped without any affect. However, when the y is dropped and the endings are added, changes occur.
+**Note**: This paradigm demonstrates the effect of the aleph and vowel changes above. *annum* in Proto-Semitic was *\*hanniy-*. The *h* is dropped without any affect. However, when the y is dropped and the endings are added, changes occur.
 
 <table>
     <caption>Annum</caption>
@@ -92,13 +92,65 @@ This paradigm demonstrates the effect of the aleph and the vowel changes. *annum
 - When paired with other adjectives, it comes last (eg. *šamnum ṭābum annum* this fine oil)
 - The feminine singular (*annītum*) may be used as a neuter demonstrative pronoun.
 
-### *Su* (That/those)
+### *Šū* (That/those)
 
-TODO
+**Note**: The far demonstrative is the 3rd person independent pronouns ([Lesson 2]({{< ref "akkadian-study-guide-002.md" >}})).
+
+<table>
+    <caption>šū</caption>
+    <thead>
+        <tr>
+          <th></th>
+          <th>Masculine</th>
+          <th>Feminine</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <th>Nom S</td>
+            <td>šū</td>
+            <td>šī</td>
+        </tr>
+        <tr>
+            <th>Gen/Acc S</td>
+            <td>šuāti (šuātu, šâti, šâtu)</td>
+            <td>šuāti (šâti, šiāti)</td>
+        </tr>
+        <tr>
+            <th>Dat S</td>
+            <td>šuāšim (šâšim, šâšum)</td>
+            <td>šuāšim (šâšim, šiāšim)</td>
+        </tr>
+        <tr>
+            <th>Nom P</td>
+            <td>šunu</td>
+            <td>šina</td>
+        </tr>
+        <tr>
+            <th>Gen/Acc P</td>
+            <td>šunuti</td>
+            <td>šināti</td>
+        </tr>
+        <tr>
+            <th>Dat P</td>
+            <td>šunūšim</td>
+            <td>--</td>
+        </tr>
+    </tbody>
+</table>
+
+- The forms in parentheses are dialectictical variations.
+- The dative case only occurs after *ana*.
+- This is **anaphoric** meaning it always refers back to something already known.
+    - Often translate as "the aforementioned", "said", "this/these".
 
 ## Denominative Adjectives
 
-TODO
+- Adjectives formed from nouns (as opposed to verbal adjectives formed from verbs).
+- Formed by adding -*ī*- to the base then adding the endings.
+
+    *maḫr*- + -*ī*- + -*um*/*im*/*am*  == *maḫrûm*, *maḫrîm*, *maḫriam*
+- Declined as *annûm*
 
 </print-section>
 

@@ -17,7 +17,9 @@ tags:
 ## Vowel Syncope
 
 - Two [light syllables]({{< ref "akkadian-study-guide-001.md" >}}) cannot stand immediately next to one another.
-    - If two stand next to each other, the second is **syncopated** (the vowel is omitted). eg. \*\*napišātum > napšātum
+    - If two stand next to each other, the second is **syncopated** (the vowel is omitted). 
+
+        eg. \*\*napišātum > napšātum
     - Exceptions can occur:
         - at the end of a word (most often prepositions) eg. ina
         - before a vowel (rabiam)

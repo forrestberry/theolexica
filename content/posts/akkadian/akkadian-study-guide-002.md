@@ -158,15 +158,15 @@ Technically the feminine endings are *—um*, *—im*, but the āt infix (see be
 - If subject is a pronoun, it stands at the end of the clause.
 - Tense is determined by context.
 
-*amātum ina ālim* "The maidservants are/were/will be in the town."
+    *amātum ina ālim* "The maidservants are/were/will be in the town."
 
 - Adverb (phrase) - Noun (phrase) occurs less frequently.
 
-*ina libbim ša ālim nārum* "In the center of the town (there) is a river."
+    *ina libbim ša ālim nārum* "In the center of the town (there) is a river."
 
 - With ša and a following genitive, verbless clauses represent simple possession.
 
-*bītum ša iltim* "The house is the goddess's."
+    *bītum ša iltim* "The house is the goddess's."
 
 </print-section>
 
