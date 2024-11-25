@@ -34,7 +34,7 @@ a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z
         <tr>
             <td>ḫ</td>
             <td>ch as in loch</td>
-            <td></td>
+            <td>Called "hooked h"</td>
         </tr>
         <tr>
             <td>y</td>
@@ -44,7 +44,7 @@ a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z
         <tr>
             <td>ṣ</td>
             <td>ts as in bits</td>
-            <td>emphatic, Hebrew Tsade</td>
+            <td>emphatic, called "dotted s"</td>
         </tr>
         <tr>
             <td>š</td>
@@ -54,7 +54,7 @@ a, b, d, e, g, ḫ, i, y, k, l, m, n, p, q, r, s, ṣ, š, t, ṭ, u, w, z
         <tr>
             <td>ṭ</td>
             <td>t as in tot</td>
-            <td>emphatic, Hebrew Tet</td>
+            <td>emphatic, called "dotted t"</td>
         </tr>
         <tr>
             <td>ʾ</td>

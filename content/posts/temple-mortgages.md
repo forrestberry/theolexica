@@ -49,6 +49,7 @@ I am researching the role of the temple as a bank in Second Temple Judaism. This
     - Most promising resource
 - Gerald O West, “Tracking an Ancient Near Eastern Economic System: The Tributary Mode of Production and the Temple-State,” <i>Old Testament Essays (New Series)</i> 24, no. 2 (0, 2011): 511–32.
     - TODO
+- Chaney, Marvin L. "Micah—Models Matter: Political Economy and Micah 6:9-15" in 
 
 
 ## Biblical Texts
