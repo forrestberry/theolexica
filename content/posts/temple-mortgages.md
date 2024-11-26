@@ -43,13 +43,21 @@ I am researching the role of the temple as a bank in Second Temple Judaism. This
 
 ## Second Temple Economics
 - Benjamin D. Gordon, <i>Land and Temple: Field Sacralization and the Agrarian Priesthood of Second Temple Judaism</i>, Studia Judaica, Band 87 (Berlin ; Boston: Walter de Gruyter GmbH, 2020).
-    - TODO
+    - Reviews the role of the priesthood and the institution of the Second Temple. Demostrates that the priesthood was not merely a Jerusalem-focused cult but affected all Palestine.
 - Marty E. Stevens, <i>Temples, Tithes, and Taxes: The Temple and the Economic Life of Ancient Israel</i> (Peabody, Mass: Hendrickson Publishers, 2006).
     - TODO
     - Most promising resource
 - Gerald O West, “Tracking an Ancient Near Eastern Economic System: The Tributary Mode of Production and the Temple-State,” <i>Old Testament Essays (New Series)</i> 24, no. 2 (0, 2011): 511–32.
     - TODO
-- Chaney, Marvin L. "Micah—Models Matter: Political Economy and Micah 6:9-15" in 
+- Chaney, Marvin L. "Micah—Models Matter: Political Economy and Micah 6:9-15"
+    - How to understand Economic models in a particular passage. Particularly interesting is the "treasures of the wicked in the house of the wicked" as a parrallel or euphemism for the treasures of the temple.
+- Bagnall, Roger S. “Evidence and Models for the Economy of Roman Egypt.” In The Ancient Economy: Evidence and Models, edited by J. G. Manning and Ian Morris, 187–206. Social Science History. Stanford, CA: Stanford University Press, 2005.
+    - A comprehensive view of the broad working of the economy in Roman Egypt. This post-dates the area of study by a bit, but demonstrates a working economic model for the Jewish period and provides some unique parrallels for Palestine.
+- Davies. “Linear and Nonlinear Flow Models for Ancient Economies.” In The Ancient Economy: Evidence and Models, edited by J. G. Manning and Ian Morris, 127–56. Social Science History. Stanford, CA: Stanford University Press, 2005.
+    - A technical understanding of economic models and their place in history. Argues that modern economic analysis (eg Keynesian, Marxist, classical) are not helpful to understanding ancient mediteranean economics with the emphasis on war, slavery, and quid pro quo.
+- Esler, Philip F., and Philip F. Esler, eds. “Social-Scientific Models in Biblical Interpretation.” In Ancient Israel: The Old Testament in Its Social Context, 3–14. Minneapolis: Fortress Press, 2006.
+    - An introduction to the use of economic and political models to understanding history. Essentially the use of analogy and inductive reasoning of other political systems and projecting that into the past. Need to apply carefully.
+
 
 
 ## Biblical Texts
