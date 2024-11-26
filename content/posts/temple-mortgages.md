@@ -49,21 +49,39 @@ I am researching the role of the temple as a bank in Second Temple Judaism. This
     - Most promising resource
 - Gerald O West, “Tracking an Ancient Near Eastern Economic System: The Tributary Mode of Production and the Temple-State,” <i>Old Testament Essays (New Series)</i> 24, no. 2 (0, 2011): 511–32.
     - TODO
-- Chaney, Marvin L. "Micah—Models Matter: Political Economy and Micah 6:9-15"
-    - How to understand Economic models in a particular passage. Particularly interesting is the "treasures of the wicked in the house of the wicked" as a parrallel or euphemism for the treasures of the temple.
 - Bagnall, Roger S. “Evidence and Models for the Economy of Roman Egypt.” In The Ancient Economy: Evidence and Models, edited by J. G. Manning and Ian Morris, 187–206. Social Science History. Stanford, CA: Stanford University Press, 2005.
     - A comprehensive view of the broad working of the economy in Roman Egypt. This post-dates the area of study by a bit, but demonstrates a working economic model for the Jewish period and provides some unique parrallels for Palestine.
 - Davies. “Linear and Nonlinear Flow Models for Ancient Economies.” In The Ancient Economy: Evidence and Models, edited by J. G. Manning and Ian Morris, 127–56. Social Science History. Stanford, CA: Stanford University Press, 2005.
     - A technical understanding of economic models and their place in history. Argues that modern economic analysis (eg Keynesian, Marxist, classical) are not helpful to understanding ancient mediteranean economics with the emphasis on war, slavery, and quid pro quo.
+    - Amemiya, Takeshi. “Comment on Davies.” In The Ancient Economy: Evidence and Models, edited by J. G. Manning and Ian Morris, 157–62. Social Science History. Stanford, CA: Stanford University Press, 2005.
+        - A response and critique of Davies' interpretation. Helpful for balance.
 - Esler, Philip F., and Philip F. Esler, eds. “Social-Scientific Models in Biblical Interpretation.” In Ancient Israel: The Old Testament in Its Social Context, 3–14. Minneapolis: Fortress Press, 2006.
     - An introduction to the use of economic and political models to understanding history. Essentially the use of analogy and inductive reasoning of other political systems and projecting that into the past. Need to apply carefully.
-
-
+- Manning, J.G. “The Relationship of Evidence to Models in the Ptolemaic Economy (332-30 BC).” In The Ancient Economy: Evidence and Models, edited by J. G. Manning and Ian Morris, 163–86. Social Science History. Stanford, CA: Stanford University Press, 2005.
+    - Overview of the intersection between actual data and the models used to understand the data. Provides a test case of a specific slice of the Ptolemaic dynasty. Tangential but helpful to Israel under the Ptolemies.
+- Davies, John K. “Temples, Credit, and the Circulation of Money.” In Money and Its Uses in the Ancient Greek World, edited by Andrew Meadows and Kirsty Shipton, 117–28. Oxford ; New York: Oxford University Press, 2001.
+    - Another article by John Davies. This is particularly geared toward the role of temples in the monetary economy. This is an important article due to the concentration of coin in temples. Useful parrallels here for Jerusalem temple.
+- Goldenberg, Robert. “The Destruction of the Jerusalem Temple: Its Meaning and Its Consequences.” In The Cambridge History of Judaism: Volume 4: The Late Roman-Rabbinic Period, edited by Steven T. Katz, 4:191–205. The Cambridge History of Judaism. Cambridge: Cambridge University press, 2006.
+    - Later than our period, but possible overlap regarding the temple as treasury.
+- Bahat, Dan. “The Herodian Temple.” In The Cambridge History of Judaism: Volume 3: The Early Roman Period, edited by William Horbury, W. D. Davies, and John Sturdy, 3:38–58. The Cambridge History of Judaism. Cambridge: Cambridge University Press, 1999. https://doi.org/10.1017/CHOL9780521243773.
+    - Great introductory article
+- Schaper, Joachim. “The Jerusalem Temple as an Instrument of the Achaemenid Fiscal Administration.” Vetus Testamentum 45, no. 4 (October 1995): 528–39.
+    - Slightly older article, but reviews a lot of the themes I am interested in. Particularly important is the emphasis on tax collection via the Temple.
+- “The Pilgrimage Economy of Jerusalem in the Second Temple Period.” In Judaism in the Roman World: Collected Essays, 59–68. Ancient Judaism and Early Christianity = Arbeiten Zur Geschichte Des Antiken Judentums Und Des Urchristentums, v. 66. Leiden ; Boston: Brill, 2007.
+    - Directly relevant to Jesus and the money changers. Useful resource for the legitimate and corrupted economy of the travel to Jerusalem
+- Cohen, Shaye J.D. “The Temple and the Synagogue.” In The Cambridge History of Judaism: Volume 3: The Early Roman Period, edited by William Horbury, W. D. Davies, and John Sturdy, 3:298–325. The Cambridge History of Judaism. Cambridge: Cambridge University Press, 1999. https://doi.org/10.1017/CHOL9780521243773.
+    - Good overview of the relationship between the temple and the diaspora synagogue, and between Pharisees and the priesthood.
+- “The Temple in First-Century CE Judaism.” In Judaism in the Roman World: Collected Essays, 47–58. Ancient Judaism and Early Christianity = Arbeiten Zur Geschichte Des Antiken Judentums Und Des Urchristentums, v. 66. Leiden ; Boston: Brill, 2007.
+    - Good overview
 
 ## Biblical Texts
 - Leviticus 27:14-21
     - [Notes on Leviticus 27]({{< ref "leviticus-27.md" >}})
     - When a man dedicates his house as a holy gift to the LORD, the priest shall value it as either good or bad; as the priest values it, so it shall stand. And if the donor wishes to redeem his house, he shall add a fifth to the valuation price, and it shall be his. "If a man dedicates to the LORD part of the land that is his possession, then the valuation shall be in proportion to its seed. A homer of barley seed shall be valued at fifty shekels of silver. If he dedicates his field from the year of jubilee, the valuation shall stand, but if he dedicates his field after the jubilee, then the priest shall calculate the price according to the years that remain until the year of jubilee, and a deduction shall be made from the valuation. And if he who dedicates the field wishes to redeem it, then he shall add a fifth to its valuation price, and it shall remain his. But if he does not wish to redeem the field, or if he has sold the field to another man, it shall not be redeemed anymore. But the field, when it is released in the jubilee, shall be a holy gift to the LORD, like a field that has been devoted. The priest shall be in possession of it.
+- Micah 6:9-15
+    - The voice of the LORD cries to the city- and it is sound wisdom to fear your name: "Hear of the rod and of him who appointed it! Can I forget any longer the treasures of wickedness in the house of the wicked, and the scant measure that is accursed? Shall I acquit the man with wicked scales and with a bag of deceitful weights? Your rich men are full of violence; your inhabitants speak lies, and their tongue is deceitful in their mouth. Therefore I strike you with a grievous blow, making you desolate because of your sins. You shall eat, but not be satisfied, and there shall be hunger within you; you shall put away, but not preserve, and what you preserve I will give to the sword. You shall sow, but not reap; you shall tread olives, but not anoint yourselves with oil; you shall tread grapes, but not drink wine.
+    - Chaney, Marvin L. "Micah—Models Matter: Political Economy and Micah 6:9-15"
+        - How to understand Economic models in a particular passage. Particularly interesting is the "treasures of the wicked in the house of the wicked" as a parrallel or euphemism for the treasures of the temple.
 - [Jesus and the Money Changers]({{< ref "jesus-money-changers.md" >}})
     - Matt 21:12-13
         - And Jesus entered the temple and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. He said to them, "It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers."
