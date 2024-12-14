@@ -55,8 +55,10 @@ Note: some verbs can be in more than one category.
 - Infinitives following prepositions often have special meanings that must be memorized.
 - All verbs are listed under the infinitive in modern Akkadian dictionaries.
 - Infinitive is often best translated with a gerund.
-wardum ina *šakānim* ša ḫurāṣim imqut
-The slave fell when stealing the gold.
+
+    *wardum ina **šakānim** ša ḫurāṣim imqut*
+
+    The slave fell when stealing the gold.
 - Infinitive following a preposition may have a special meaning:
     - *ana* + infin = in order to
     - *ina* + infin = when, while, by
@@ -70,7 +72,7 @@ The slave fell when stealing the gold.
     - The V is **theme vowel**.
     - The theme vowel is always short in the G preterite.
     - The theme vowel is unpredictable and must be memorized per root.
-        - *iškun* > *šakānum*, *išriq* > *šarāqum*, iṣbat > ṣabātum
+        - *iškun* > *šakānum*, *išriq* > *šarāqum*, *iṣbat* > *ṣabātum*
 - Prefixes and suffixes are added to decline the verb.
 
 <table>

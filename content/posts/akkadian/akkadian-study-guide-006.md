@@ -39,7 +39,7 @@ tags:
     - If a word lost an ʾ<sub>1-7</sub> between vowels, the two vowels went thru changes based on what they were:
         - *e* or *i* followed by *a* = no change (if first vowel is long, it will become short)
         - *ā* or *ē* followed by *i* = *ê*
-        - XY = Ȳ
+        - XY = Ŷ
     - ʾ<sub>3-4</sub> caused *a* to turn to *e*. This can show up when comparing Hebrew and Akkadian.
 
         \*baʿlum > \*beʿlum > bēlum (בַּ֫עַל)
@@ -154,5 +154,4 @@ tags:
 
 </print-section>
 
-TODO: Anki Deck
 [Anki Deck](/anki/akkadian_006.apkg)

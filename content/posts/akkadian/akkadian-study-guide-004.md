@@ -69,22 +69,22 @@ tags:
       </thead>
       <tbody>
         <tr>
-            <th>Nom S</td>
+            <th>nom s</th>
             <td>damqum</td>
             <td>damiqtum</td>
         </tr>
         <tr>
-            <th>Gen S</td>
+            <th>Gen S</th>
             <td>damqim</td>
             <td>damiqtim</td>
         </tr>
         <tr>
-            <th>Acc S</td>
+            <th>Acc S</th>
             <td>damqam</td>
             <td>damiqtam</td>
         </tr>
         <tr>
-            <th>Nom P</td>
+            <th>Nom P</th>
             <td>damqūtum</td>
             <td>damqātum</td>
         </tr>
