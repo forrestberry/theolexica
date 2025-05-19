@@ -53,6 +53,7 @@ I am researching the role of the temple as a bank in Second Temple Judaism. This
     - A comprehensive view of the broad working of the economy in Roman Egypt. This post-dates the area of study by a bit, but demonstrates a working economic model for the Jewish period and provides some unique parrallels for Palestine.
 - Davies. “Linear and Nonlinear Flow Models for Ancient Economies.” In The Ancient Economy: Evidence and Models, edited by J. G. Manning and Ian Morris, 127–56. Social Science History. Stanford, CA: Stanford University Press, 2005.
     - A technical understanding of economic models and their place in history. Argues that modern economic analysis (eg Keynesian, Marxist, classical) are not helpful to understanding ancient mediteranean economics with the emphasis on war, slavery, and quid pro quo.
+    - [Notes on Davies]({{< ref "notes-on-davieslinearnonlinearflow2005.md" >}})
     - Amemiya, Takeshi. “Comment on Davies.” In The Ancient Economy: Evidence and Models, edited by J. G. Manning and Ian Morris, 157–62. Social Science History. Stanford, CA: Stanford University Press, 2005.
         - A response and critique of Davies' interpretation. Helpful for balance.
 - Esler, Philip F., and Philip F. Esler, eds. “Social-Scientific Models in Biblical Interpretation.” In Ancient Israel: The Old Testament in Its Social Context, 3–14. Minneapolis: Fortress Press, 2006.

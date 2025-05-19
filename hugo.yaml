@@ -1,7 +1,7 @@
 baseURL: https://theolexica.com/
 languageCode: en-us
 title: Theolexica
-theme: ["PaperMod"] 
+theme: ["PaperMod"]
 markup:
   goldmark:
     renderer:
@@ -24,10 +24,14 @@ menu:
       name: hebrew
       url: /tags/hebrew
       weight: 20
+    - identifier: Latin
+      name: latin
+      url: /tags/latin
+      weight: 30
     - identifier: search
       name: search 
       url: /search
-      weight: 30
+      weight: 40
 
 outputs:
   home:

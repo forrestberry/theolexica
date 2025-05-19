@@ -1,16 +1,16 @@
 ---
-title: Akkadian Grammar Study Guide Intro
-date: 2024-08-04
+title: Latin Grammar Study Guide Intro
+date: 2025-08-19
 draft: false
 tags:
-  - Akkadian
-  - OT Studies
-  - Huehnergard
+  - Latin
+  - PhD Studies
+  - Wheelock
   - Grammar
   - Anki
 ---
 
-<akkadian-toc></akkadian-toc>
+<lation-toc></latin-toc>
 
 <print-section>
 
