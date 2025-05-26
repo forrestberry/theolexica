@@ -1,6 +1,6 @@
 ---
 title: Leviticus 27 Notes
-date: 2024-10-08 17:29:01
+date: 2024-10-08T17:29:01
 draft: false
 tags:
     - Bible

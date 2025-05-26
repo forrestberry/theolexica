@@ -1,6 +1,6 @@
 ---
 title: Akkadian Grammar Study Guide 007
-date: 2024-12-10 19:59:33
+date: 2024-12-10T19:59:33
 draft: false
 tags:
   - Akkadian

@@ -1,6 +1,6 @@
 ---
 title: Swadesh List
-date: 2024-12-14 15:24:56
+date: 2024-12-14T15:24:56
 draft: false
 tags:
     - Linguistics

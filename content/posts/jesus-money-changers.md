@@ -1,6 +1,6 @@
 ---
 title: Jesus and the Money Changers
-date: 2024-10-08 20:36:14
+date: 2024-10-08T20:36:14
 draft: false
 tags:
     - Temple Mortgages

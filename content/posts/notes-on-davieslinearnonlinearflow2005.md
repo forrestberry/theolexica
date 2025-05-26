@@ -1,6 +1,6 @@
 ---
 title: Notes on Davies, "Linear and Non-Linear Flow Models"
-date: 2024-12-15 10:28:26
+date: 2024-12-15T10:28:26
 draft: false
 tags:
     - Temple Mortgages

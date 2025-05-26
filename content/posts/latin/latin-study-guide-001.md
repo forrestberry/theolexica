@@ -1,6 +1,6 @@
 ---
 title: Latin Study Guide 001
-date: 2025-05-19 23:53:48
+date: 2025-05-19T23:53:48
 draft: true
 tags:
     - Latin

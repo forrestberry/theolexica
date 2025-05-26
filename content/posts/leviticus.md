@@ -1,6 +1,6 @@
 ---
 title: Notes on Leviticus
-date: 2024-10-08 17:26:13
+date: 2024-10-08T17:26:13
 draft: false
 tags:
     - Bible

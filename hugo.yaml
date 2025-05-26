@@ -20,18 +20,22 @@ menu:
       name: akkadian
       url: /tags/akkadian
       weight: 10
+    - identifier: Greek
+      name: greek
+      url: /tags/greek
+      weight: 20
     - identifier: Hebrew
       name: hebrew
       url: /tags/hebrew
-      weight: 20
+      weight: 30
     - identifier: Latin
       name: latin
       url: /tags/latin
-      weight: 30
+      weight: 40
     - identifier: search
       name: search 
       url: /search
-      weight: 40
+      weight: 50
 
 outputs:
   home:

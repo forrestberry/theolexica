@@ -1,6 +1,6 @@
 ---
 title: Sardis Temple Mortgage Inscriptions
-date: 2024-09-27 19:31:10
+date: 2024-09-27T19:31:10
 draft: false
 tags:
     - Second Temple Judaism

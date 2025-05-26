@@ -1,6 +1,6 @@
 ---
 title: 2 Maccabees 3 Notes
-date: 2024-10-21 20:23:41
+date: 2024-10-21
 draft: false
 tags:
     - 2 Maccabees

@@ -1,6 +1,6 @@
 ---
 title: The Hero of Zotero
-date: 2024-09-29 18:44:28
+date: 2024-09-29T18:44:28
 draft: false
 summary: How I use the Zot Hero plugin with Alfred to add Zotero references anywhere.
 tags:

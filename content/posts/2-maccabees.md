@@ -1,6 +1,6 @@
 ---
 title: 2 Maccabees
-date: 2024-10-21 17:24:40
+date: 2024-10-21T17:24:40
 draft: false
 tags:
     - Apochrypha

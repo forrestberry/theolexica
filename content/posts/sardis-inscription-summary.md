@@ -1,6 +1,6 @@
 ---
 title: Temple Mortgages in Sardis Summary
-date: 2024-09-27 19:17:24
+date: 2024-09-27T19:17:24
 draft: false
 tags:
     - Quote

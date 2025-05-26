@@ -1,6 +1,6 @@
 ---
 title: Hebrew Course Ideas
-date: 2024-11-09 17:10:55
+date: 2024-11-09T17:10:55
 draft: false
 tags:
     - Hebrew
