@@ -1,5 +1,6 @@
 baseURL: https://theolexica.com/
 languageCode: en-us
+buildFuture: true #needed with traveling to Europe--what a pain this was
 title: Theolexica
 theme: ["PaperMod"]
 markup:
