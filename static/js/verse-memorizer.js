@@ -135,7 +135,13 @@ class VerseMemorizer extends HTMLElement {
 
       <div id="practice" hidden>
         <div id="display"></div>
-        <input id="answerInput" type="text" placeholder="Type the missing word..." autocomplete="off" />
+        <input id="answerInput" 
+            type="text" 
+            placeholder="Type the missing word..." 
+            autocomplete="off"
+            autocorrect="off"
+            autocapitalize="off"
+            spellcheck="false"/>
         <div id="roundMessage" hidden></div>
         <div id="stats"></div>
         <button id="restartBtn">Restart</button>
