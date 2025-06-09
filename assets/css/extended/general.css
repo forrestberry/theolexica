@@ -6,4 +6,11 @@ body {
 
 :root {
     --main-width: 820px;
+    --correct: rgb(36,127,16);
+    --wrong: rgb(218,15,15);
+}
+
+.dark {
+    --correct: rgb(148,225,131);
+    --wrong: rgb(255,139,139);
 }
