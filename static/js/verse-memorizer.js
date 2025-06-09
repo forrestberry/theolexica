@@ -90,12 +90,12 @@ class VerseMemorizer extends HTMLElement {
 
         .correct {
           color: var(--correct) !important;
-          font-weight: 700 !important;
+          font-weight: 500 !important;
         }
 
         .wrong {
           color: var(--wrong) !important;
-          font-weight: 700 !important;
+          font-weight: 500 !important;
         }
 
         #answerInput.wrong {
@@ -257,7 +257,7 @@ class VerseMemorizer extends HTMLElement {
     if (this._round > 0) {
         //this.$answerInput.disabled = true;
         this.$roundMessage.classList.add('correct');
-        this.$roundMessage.textContent = '✓';
+        this.$roundMessage.textContent = 'Next round.';
         this.$roundMessage.hidden = false;
         this.$stats.hidden = true;
         setTimeout(() => {
@@ -290,7 +290,7 @@ class VerseMemorizer extends HTMLElement {
 
     //this.$answerInput.disabled = true;
     this.$roundMessage.classList.add('wrong');
-    this.$roundMessage.textContent = '❌';
+    this.$roundMessage.textContent = 'Repeat this round.';
     this.$roundMessage.hidden = false;
     this.$stats.hidden = true;
     setTimeout(() => {
