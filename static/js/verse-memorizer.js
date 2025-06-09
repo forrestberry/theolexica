@@ -219,8 +219,9 @@ class VerseMemorizer extends HTMLElement {
     this._madeError = false;
     this._inputBuffer = '';
 
+    this.$answerInput.classList.remove('correct', 'wrong');
+    this.$answerInput.disabled = false;
     this.$answerInput.value = '';
-    //this.$answerInput.disabled = false;
     this.$answerInput.placeholder = 'Type the missing word...';
 
     this.$setup.hidden = false;
