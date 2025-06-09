@@ -257,7 +257,7 @@ class VerseMemorizer extends HTMLElement {
     if (this._round > 0) {
         //this.$answerInput.disabled = true;
         this.$roundMessage.classList.add('correct');
-        this.$roundMessage.textContent = 'Great job! Moving to the next round.';
+        this.$roundMessage.textContent = '✓';
         this.$roundMessage.hidden = false;
         this.$stats.hidden = true;
         setTimeout(() => {
@@ -290,7 +290,7 @@ class VerseMemorizer extends HTMLElement {
 
     //this.$answerInput.disabled = true;
     this.$roundMessage.classList.add('wrong');
-    this.$roundMessage.textContent = 'Errors made! Repeating this round.';
+    this.$roundMessage.textContent = '❌';
     this.$roundMessage.hidden = false;
     this.$stats.hidden = true;
     setTimeout(() => {
