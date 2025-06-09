@@ -38,6 +38,8 @@ class VerseMemorizer extends HTMLElement {
           border-radius: var(--radius);
           font: inherit;
           box-sizing: border-box;
+          background: var(--tertiary);
+          color: var(--primary);
         }
 
         button {
@@ -49,6 +51,7 @@ class VerseMemorizer extends HTMLElement {
           padding: 0.5rem 1.25rem;
           font: inherit;
           cursor: pointer;
+          color: var(--primary);
         }
 
         button:disabled {
@@ -69,16 +72,6 @@ class VerseMemorizer extends HTMLElement {
           text-align: center;
         }
 
-        .correct {
-          color: var(--correct);
-          font-weight: 700;
-        }
-
-        .wrong {
-          color: var(--wrong);
-          font-weight: 700;
-        }
-
         #answerInput {
           display: block;
           width: 100%;
@@ -90,6 +83,19 @@ class VerseMemorizer extends HTMLElement {
           text-align: center;
           margin: 0 auto;
           transition: color 0.2s ease;
+          background: var(--tertiary);
+          color: var(--primary);
+          font: inherit;
+        }
+
+        .correct {
+          color: var(--correct) !important;
+          font-weight: 700 !important;
+        }
+
+        .wrong {
+          color: var(--wrong) !important;
+          font-weight: 700 !important;
         }
 
         #answerInput.wrong {
