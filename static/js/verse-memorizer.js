@@ -9,7 +9,6 @@ class VerseMemorizer extends HTMLElement {
     this._madeError = false;          // whether a wrong answer happened in current round
     this._inputBuffer = '';           // Text buffer for input when textarea is disabled
 
-    // build DOM
     this.attachShadow({ mode: 'open' });
     this.shadowRoot.innerHTML = `
       <style>
@@ -126,7 +125,7 @@ class VerseMemorizer extends HTMLElement {
 
       </style>
 
-      <h2>Memorizer</h2>
+      <h2>Text Memorizer</h2>
 
       <div id="setup">
         <textarea id="inputText" placeholder="Enter the text you want to memorize"></textarea>
