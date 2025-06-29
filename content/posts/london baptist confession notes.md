@@ -36,7 +36,7 @@ One thought here in our context, we are in an international church. Many of the 
 
 ### Of the Holy Scriptures
 
-#### Chapter 1
+#### Paragraph 1
 
 I appreciate the logic that is presented about revelation in point one. Natural revelation is there pointing us to God, but it is insufficient for a true knowledge of God and salvation.
 
@@ -46,17 +46,17 @@ Therefore, the Holy Scriptures are most necessary because the former ways of rev
 
 The LBC assumes a basically cessationist position. There's probably room here for an open but cautious perspective, but the emphasis is clearly on the Scriptures as the Word of God. The place we should be looking for the will of God, the place for all comfort and knowledge, encouragement and training is the Scriptures.
 
-#### Chapter 3
+#### Paragraph 3
 
 Mildly interesting that the Apochrypha is considered to be no more helpful than any other human writing. In other places you will see a recommendation to read the apochrypha as historically significant or as spiritually uplifting texts. Similar to how we might uphold the puritans as a generally helpful category of writings.
 
 In the Protestant world, the Apochrypha has been treated with suspicion at best. Most Protestants, even widely read ones, have not read the Apochrypha.
 
-#### Chapter 4 - 5
+#### Paragraph 4 - 5
 
 Very Van Tillian.
 
-#### Chapter 6
+#### Paragraph 6
 
 The role of the Holy Spirit and the mind of believers have a specific relation to the Word. The Holy Spirit is not providing new revelation but opening up the minds and hearts of humans to the written Word. 
 
@@ -64,21 +64,44 @@ The sanctified mind has freedom within the boundaries of the rules of the Word t
 
 This is a carefule application of the Word. It is sufficient and there, but it is not alone. The Holy Spirit must open our eyes and give us a new heart to understand it. As believers, we must use our reason and the principles of the Word to make righteous decisions.
 
-#### Chapter 8
+#### Paragraph 8
 
 The Scriptures should be translated. Ultimately, it is the Scriptures in the original languages that are inspired, but the word ought to be translated into every common tongue to which the gospel goes in order that the people may possess the benefits of the word.
 
 The implication for missions is clear. The Scriptures should be translated as the Gospel spreads.
 
-#### Chapter 10
+#### Paragraph 10
 
 Our confidence in theology rests not in any preacher or council or tradition, but in the Holy Scriptures alone.
 
 ### Of God and the Holy Trinity
 
-TODO
+#### Paragraph 3
+
+In the modern evangelical world, this is probably one of the more controversial paragraphs. At issue is the relation of the persons within the single Being of God. The traditional orthodox understanding of begetting and procession are key trinitarian distinctions. I think we jettison this language at our peril. We should bring these terms back into our theological preaching.
 
 ### Of Gods decrees
+
+#### Paragraph 2
+
+Seems an uneccesary distinction. God knows all possible worlds but chose decreed this world unconditionally. This strikes me as hairsplitting. On the one hand, yes God knows all things and all potentialities. On the other hand, there are no other potentials. The world exists as God decreed it.
+
+#### Paragraph 3
+
+The focus on angels here and in a few other places, strikes me as interesting. While angels are not outside the sovereignty of God, the Scriptures deal with the salvation and decrees of humanity, not of the angels. Biblically speaking, the Bible does not speak of the election to salvation of angels. Angels are not saved in the sense that humans are.
+
+It seems improper to say that angels are foreordained to eternal life through Jesus Christ. The reason for the incarnation is that the Son took on flesh so that he might be able to be a suitable sacrifice for us. He does not take on an angelic form in order to be a suitable sacrifice for angels.
+
+The elect angels exist in an unfallen state. Their standing before God is not based on a need for forgiveness and mediation. While they are still unworthy servants of the Most High, they are not redeemed sinners standing before God.
+
+#### Paragraph 6
+
+The discussion of the means of election is also important. Election does not happen apart from God's practical providence applied in the world. Salvation comes by the hearing of the word and faith in Jesus Christ as redeemer. Election never undercuts this.
+
+#### Paragraph 7
+
+I laughed at this one. Arrogant calvinists were a problem then too.
+
 ### Of Creation
 ### Of Divine Providence
 ### Of the Fall of Man, of Sin, and of the Punishment thereof:
