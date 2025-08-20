@@ -4,6 +4,8 @@ date: "2025-08-11 20:38:44"
 draft: false
 tags:
     - Board Games
+    - Instructions
+    - Kids
 ---
 <print-section>
 
