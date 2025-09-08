@@ -97,6 +97,11 @@ class VerseMemorizer extends HTMLElement {
           font-weight: 500 !important;
         }
 
+        .neutral {
+          color: var(--neutral) !important;
+          font-weight: 500 !important;
+        }
+
         #answerInput.wrong {
           animation: shake 0.3s linear both;
         }
@@ -329,6 +334,29 @@ class VerseMemorizer extends HTMLElement {
   _handleGuess(rawInput) {
     if (!rawInput || this._guessCursor >= this._currentRoundMissing.length) return;
 
+    // allow common typing errors: 
+      // 1. allow the answer to be the word after the previous blank
+      // 2. allow the answer to be the word before the actual blank
+    let expectedArray = [];
+    const blankIdx = this._currentRoundMissing[this._guessCursor];
+
+    // word after previous blank
+    if (this._guessCursor > 0) {
+      const prevIdx = this._currentRoundMissing[this._guessCursor - 1] + 1;
+      if (prevIdx >= 0 && prevIdx < this._words.length) {
+        expectedArray.push(this._words[prevIdx].text);
+      }
+    }
+
+    // word before actual blank
+    if (blankIdx > 0) {
+      const beforeIdx = blankIdx - 1;
+      if (beforeIdx >= 0 && beforeIdx < this._words.length) {
+        expectedArray.push(this._words[beforeIdx].text);
+      }
+    }
+
+    // actual expected word
     const expected = this._words[this._currentRoundMissing[this._guessCursor]].text;
     const normalize = s => s.replace(/[^\w'-]/g, '').toLowerCase();
 
@@ -353,7 +381,17 @@ class VerseMemorizer extends HTMLElement {
       } else {
         this._render();
       }
+    } else if (expectedArray.includes(normalize(rawInput))) {
+
+      /* -------- Neutral  -------- */
+      this.$answerInput.classList.add('neutral');
+      setTimeout(() => {
+        this.$answerInput.classList.remove('neutral');
+        this.$answerInput.value = this._inputBuffer;
+        this.$answerInput.focus();
+      }, 300);
     } else {
+
       /* -------- Wrong -------- */
       this._madeError = true;
       this.$answerInput.classList.add('wrong');
@@ -365,6 +403,7 @@ class VerseMemorizer extends HTMLElement {
         this.$answerInput.focus();
       }, 300);
     }
+
   }
 }
 
