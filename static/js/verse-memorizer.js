@@ -41,23 +41,6 @@ class VerseMemorizer extends HTMLElement {
           color: var(--primary);
         }
 
-        button {
-          display: block;
-          margin: 1rem auto 0;
-          background: none;
-          border: 1px solid var(--secondary);
-          border-radius: var(--radius);
-          padding: 0.5rem 1.25rem;
-          font: inherit;
-          cursor: pointer;
-          color: var(--primary);
-        }
-
-        button:disabled {
-          opacity: 0.5;
-          cursor: not-allowed;
-        }
-
         #display {
           margin: 1rem 0;
           line-height: 1.6;
@@ -128,6 +111,63 @@ class VerseMemorizer extends HTMLElement {
             margin: 0.75rem;
         }
 
+        button {
+          display: block;
+          margin: 1rem auto 0;
+          background: none;
+          border: 1px solid var(--secondary);
+          border-radius: var(--radius);
+          padding: 0.5rem 1.25rem;
+          font: inherit;
+          cursor: pointer;
+          color: var(--primary);
+        }
+
+        button:disabled {
+          opacity: 0.5;
+          cursor: not-allowed;
+        }
+
+        #buttonRow {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 1rem;
+            position: relative;
+          }
+
+          #restartBtn {
+            margin: 0 auto;
+          }
+
+          #nextBtn {
+            position: absolute;
+            right: 0;
+            margin: 0;
+            padding: 0.5rem;
+            border: none;
+            background: none;
+            cursor: pointer;
+          }
+
+          #nextBtn svg {
+            width: 1.5rem;
+            height: 1.5rem;
+            stroke: var(--primary);
+          }
+
+          #nextBtn:disabled svg {
+            opacity: 0.5;
+            cursor: not-allowed;
+          }
+
+        button:disabled {
+          opacity: 0.5;
+          cursor: not-allowed;
+        }
+
+
+
       </style>
 
       <h2>Text Memorizer</h2>
@@ -148,7 +188,15 @@ class VerseMemorizer extends HTMLElement {
             spellcheck="false"/>
         <div id="roundMessage" hidden></div>
         <div id="stats"></div>
-        <button id="restartBtn">Restart</button>
+
+        <div id="buttonRow">
+            <button id="restartBtn">Restart</button>
+            <button id="nextBtn">
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+              </svg>
+            </button>
+          </div>
       </div>
     `;
   }
@@ -166,9 +214,11 @@ class VerseMemorizer extends HTMLElement {
     this.$roundMessage = this.shadowRoot.getElementById('roundMessage');
     this.$stats = this.shadowRoot.getElementById('stats');
     this.$restartBtn = this.shadowRoot.getElementById('restartBtn');
+    this.$nextBtn = this.shadowRoot.getElementById('nextBtn');
 
     // listeners
     this.$startBtn.addEventListener('click', () => this._start());
+    this.$nextBtn.addEventListener('click', () => this._nextRound());
     this.$inputText.addEventListener('keydown', (event) => {
       if ((event.metaKey || event.ctrlKey) && event.key === 'Enter') {
         event.preventDefault();
@@ -250,6 +300,7 @@ class VerseMemorizer extends HTMLElement {
       this.$stats.hidden = true;
       this.$roundMessage.classList.add('correct');
       this.$roundMessage.textContent = 'Great job! You typed the entire passage from memory!';
+      this.$nextBtn.disabled = true;
       setTimeout(() => {
           this.$answerInput.disabled = true;
           this.$answerInput.value = '';
