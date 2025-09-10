@@ -265,6 +265,7 @@ class VerseMemorizer extends HTMLElement {
     this.$setup.hidden = true;
     this.$practice.hidden = false;
     this.$roundMessage.hidden = true;
+    this.$nextBtn.disabled = false;
 
     this._nextRound();
     this.$answerInput.focus();
