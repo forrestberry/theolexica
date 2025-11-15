@@ -1,0 +1,5 @@
+{{- $href := .Destination | safeURL -}}
+{{- $title := .Title | safeHTMLAttr -}}
+{{- $base := strings.TrimSuffix .Page.Site.BaseURL "/" -}}
+{{- $external := and (strings.HasPrefix $href "http") (not (and $base (strings.HasPrefix $href $base))) -}}
+<a href="{{ $href }}"{{ if $title }} title="{{ $title }}"{{ end }}{{ if $external }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Text | safeHTML }}</a>
