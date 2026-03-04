@@ -42,10 +42,22 @@ Translations struggle with this word a bit. "Laud", "extol", or a repeat of "pra
 
 "Tribes" seems to be a better translation than "peoples". It's not wrong, but it's too big of a word. These are tribal peoples. Cf Num 25:15, Gen 25:16.
 
-HALOT proposes to emend this to <span class="hebrew">לְאֹם</span>. The meaning of these two words is basically identical. <span class="hebrew">אֻמָּה</span> is only attested three times, while the other is common. It is a reasonable conjecture, but one that I am generally averse too. I am very conservative with the MT and would take it as it is unless there is clear evidence of error.
+HALOT proposes to emend this to <span class="hebrew">לְאֹם</span>. The meaning of these two words is basically identical. <span class="hebrew">אֻמָּה</span> is only attested three times, while the other is common. It is a reasonable conjecture, but one that I am generally averse too. I prefer to let the MT text stand unless there is clear evidence of error.
 
 #### <span class="hebrew">גבר</span>
 
+The LSB wants to make this "prevails over us". It's not a great translation. 
+
+I assume that this is because of collocation with the preposition <span class="hebrew">על</span>. In Genesis 7:18, <span class="hebrew">גבר</span> is seen with <span class="hebrew">על</span> and is translated as "prevailed upon". "The waters prevailed upon the earth".
+
+That doesn't make good sense here. Psalm 103:11 is a similar construction. It's not a picture of prevailing, but a sense of greatness and fullness.
+k
 ##### <span class="hebrew">הַֽלְלוּ־יָֽהּ</span>
+
+This is where we get our english word "hallelujah". It is an anthem-like phrase repeated often in Psalms 113-118.
+
+## Commentary Notes
+
+Verse two is quoted in Romans 15:11
 
 
