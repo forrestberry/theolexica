@@ -94,25 +94,38 @@ This is where we get our english word "hallelujah". It is an anthem-like phrase 
 - Outline
     - The Global Invitation (1)
     - The Gospel Reason (2)
-    - The Glory-Hallelujah! (2)
-- Intro
-    - Second to last Sunday in Estonia
-    - First time living outside the United States
-    - First time in a missionary church like this.
-        - Diversity of the body (America, Colombia, Indonesia, South Africa, Nigeria, Cameroon, Czechia, Estonia, and more)
-        - What brings us together is the good news of Jesus Christ
-            - Fellowship flows from our common belief that Jesus is the Lord of our lives. 
-            - Our understanding that God exists, that he is our creator, that happiness, joy, fulfillment is bound up in living according to his design. 
-            - Our understanding that we have fallen short of that glory, that we have rebelled against him and caused pain and suffering for ourselves and others, and that we have committed treason againse the ruler of the universe.
-            - Our understanding that though we were traiters and sinners, God loved us and sent his son to suffer and die and bear the weight of the wrath of God on our behalf.
-            - Our understanding that we are now, by his grace alone, children of God. That there is nothing that we could do to deserve it, but God in his love and mercy brought us together into his family.
-    - So we will miss our family here. We will meet again here or in America or in glory. But thanks to Christ, this is not a final goodbye.
-    - Our text this morning celebrates the missionary work of God. 
-        - Our God is not the God of a particular nation or people or color.
-        - He is the God of all the universe. He calls all people everywhere to repent and worship.
-    - Psalm 117 is a call for all of us to worship God.
-    - Read Psalm 117
-    - Prayer
+    - Glory-Hallelujah! (2)
+
+### Intro
+- Second to last Sunday in Estonia
+- First time living outside the United States
+- First time in a missionary church like this.
+    - Diversity of the body (America, Colombia, Indonesia, South Africa, Nigeria, Cameroon, Czechia, Estonia, and more)
+    - What brings us together is the good news of Jesus Christ
+        - Fellowship flows from our common belief that Jesus is the Lord of our lives. 
+        - Our understanding that God exists, that he is our creator, that happiness, joy, fulfillment is bound up in living according to his design. 
+        - Our understanding that we have fallen short of that glory, that we have rebelled against him and caused pain and suffering for ourselves and others, and that we have committed treason againse the ruler of the universe.
+        - Our understanding that though we were traiters and sinners, God loved us and sent his son to suffer and die and bear the weight of the wrath of God on our behalf.
+        - Our understanding that we are now, by his grace alone, children of God. That there is nothing that we could do to deserve it, but God in his love and mercy brought us together into his family.
+- So we will miss our family here. We will meet again here or in America or in glory. But thanks to Christ, this is not a final goodbye.
+- Our text this morning celebrates the missionary work of God. 
+    - Our God is not the God of a particular nation or people or race.
+    - He is the God of all the universe. He calls all people everywhere to repent and worship.
+- Psalm 117 is a call for all of us to worship God.
+- Rise to read Psalm 117
+- Prayer
+- Transition
+    - Psalm 117 calls all of us, from every nation and language and tribe to worship the Lord because of He is good and true.
+    - We'll look at it in three points this morning:
+        - The Global Invitation (1)
+        - The Gospel Reason (2)
+        - Glory-Hallelujah! (2)
+
+
+### 1. The Global Invitation (1)
+    - 
+### 2. The Gospel Reason (2)
+### 3. Glory-Hallelujah! (2)
 
 
 
