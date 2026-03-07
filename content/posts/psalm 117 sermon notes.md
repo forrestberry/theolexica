@@ -155,8 +155,9 @@ This is where we get our english word "hallelujah". It is an anthem-like phrase 
 
 Ex 34:5-7
 - Lovingkindness
-
-- Truth
+- Truth/Faithfulness
+- Realized in Jesus Christ
+- Romans 3:1-25 (focus on 21-25)
 
 ### 3. Glory-Hallelujah! (2)
 
@@ -164,14 +165,18 @@ Ex 34:8
 - What do we do with this info about God? Worship
 - "Hallelujah" == command "Worship the Lord"
 - How to worship
-    - holiness
-    - speaking praise (boasting in the other)
-    - singing
-    - doing
-    - thinking
+    - Psalms 113-118
+        - Dependence
+        - Praise (boasting in the other)
+        - singing
+        - Holiness
+        - thinking
+    - Rom 12:9-21
 
 ### Conclusion
 
+- Rom 15:8-13
+- This is where we are this morning. The gospel has gone out into the world. We are worshiping together this morning. Let us continue to praise the Lord. 
 
 
 [^1]: Kidner, Derek. Psalms 73-150: An Introduction and Commentary. Nottingham, England, Downers Grove, Ill.: Inter-Varsity Press ; IVP Academic, 2008.
