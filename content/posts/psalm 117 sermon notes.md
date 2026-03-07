@@ -123,15 +123,54 @@ This is where we get our english word "hallelujah". It is an anthem-like phrase 
 
 
 ### 1. The Global Invitation (1)
-    - 
+
+- Surprise of a Global invitation
+    - A national identity
+        - Deut 6, 23:3-7, 26:17-19
+        - Creates a nation
+            - Land, people, temple, priesthood, king
+    - Come and see evangelism
+        - Through Abraham all nations of the earth will be blessed
+        - Solomon dedicates the temple 8:41-44
+        - Solomon & Queen of Sheba
+    - Go and tell evangelism
+        - NT pattern: Matthew 28
+        - Call to Jonah was so unique
+        - NT struggle: does the gospel go to the Gentiles? Can they really be clean?
+- Context: Hillel Psalms
+    - Psalm 117 is the climax
+    - Psalm 113 Yahweh is God alone
+    - Psalm 114 Israel redeemed from Egypt
+    - Psalm 115 Yahweh over the nations
+    - Psalm 116 Personal Deliverance by Yahweh
+    - Psalm 117 All nations are called to worship
+    - Psalm 118 The steadfast love of Yahweh will continue forever
+    - Ps 117 as Climax
+        - Prophetic
+        - points to the go and tell evangelism of the NT
+        - fulfilled even here this morning
+- Call for us to go and tell
+
 ### 2. The Gospel Reason (2)
+
+Ex 34:5-7
+- Lovingkindness
+
+- Truth
+
 ### 3. Glory-Hallelujah! (2)
 
+Ex 34:8
+- What do we do with this info about God? Worship
+- "Hallelujah" == command "Worship the Lord"
+- How to worship
+    - holiness
+    - speaking praise (boasting in the other)
+    - singing
+    - doing
+    - thinking
 
-
-
-
-
+### Conclusion
 
 
 
