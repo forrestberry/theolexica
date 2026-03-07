@@ -56,8 +56,80 @@ k
 
 This is where we get our english word "hallelujah". It is an anthem-like phrase repeated often in Psalms 113-118.
 
+## Outline
+
+1. Universal Call to Praise
+2. Reason for Praise
+    - Mercy
+    - Truth
+3. Hallelujah!
+
 ## Commentary Notes
 
-Verse two is quoted in Romans 15:11
+- Verse two is quoted in Romans 15:11
+- cf Rev 7:9
+- cf Rev 19:1-6 on Hallelujah in NT
+- The call to all nations to worship forbids us "to accept the idea that different peoples have a right to different faiths."[^1]
+- "But the rhetoric will be largely empty unless the nations and tribes themselves hear it as a genuine and intelligible call. The summons therefore recoils on those who use it, with the obligation to make its invitation heard beyond their walls and their immediate circle."[^1]
+- Possibly used as a doxology (pure speculation, but interesting)
+- Mildly interesting: sung often in Matthew Henry's church.[^3]
+- Hermeneia is the best commentary on ps 117 that I reviewed.
+- Psalms 113-118 called the "Egyptian Hallel" (*praise*) Psalms
+    - seems to be used in great annual festivals
+    - 113-114 sung before the meal
+    - 115-118 sung after teh meal (cf Marck 14:26, Matt 26:30)
+    - cited by many commentaries[^2]
+- Key problem: who is the us of verse two?
+    - Israel?
+        - "He is king and lord of the world. Therefore the realm of his lordship is addressed and enjoined to take part in the homage of praise. But Yahweh’s lordship has been manifest among the nations in the goodness and faithfulness that has shown itself as historically effective for Israel (cf. Isa. 60:2ff.*)...The heathen nations may enter the brightness of the salvation that has risen over Israel."[^4]
+        - "Its invitation to all nations and their gods to join in praising Yahweh for his goodness to Israel virtually recognizes that Israel’s vocation was the salvation of the world."[^5]
+    - Gentiles?
+    - Both?
+        - "In the context of the composition in Psalms 113–118, for which Psalm 117 was created, this alternative, “YHWH’s love and faithfulness toward Israel” or “YHWH’s love and faithfulness for the nations” is, in my opinion, false. The nations are called on by Israel here to praise YHWH because he has proved his love for Israel and for the nations"[^6]
+
+## Sermon Notes
+
+- Title: Worship the Lord
+- Thesis: Let all nations worship the Lord for he is good and true.
+- Outline
+    - The Global Invitation (1)
+    - The Gospel Reason (2)
+    - The Glory-Hallelujah! (2)
+- Intro
+    - Second to last Sunday in Estonia
+    - First time living outside the United States
+    - First time in a missionary church like this.
+        - Diversity of the body (America, Colombia, Indonesia, South Africa, Nigeria, Cameroon, Czechia, Estonia, and more)
+        - What brings us together is the good news of Jesus Christ
+            - Fellowship flows from our common belief that Jesus is the Lord of our lives. 
+            - Our understanding that God exists, that he is our creator, that happiness, joy, fulfillment is bound up in living according to his design. 
+            - Our understanding that we have fallen short of that glory, that we have rebelled against him and caused pain and suffering for ourselves and others, and that we have committed treason againse the ruler of the universe.
+            - Our understanding that though we were traiters and sinners, God loved us and sent his son to suffer and die and bear the weight of the wrath of God on our behalf.
+            - Our understanding that we are now, by his grace alone, children of God. That there is nothing that we could do to deserve it, but God in his love and mercy brought us together into his family.
+    - So we will miss our family here. We will meet again here or in America or in glory. But thanks to Christ, this is not a final goodbye.
+    - Our text this morning celebrates the missionary work of God. 
+        - Our God is not the God of a particular nation or people or color.
+        - He is the God of all the universe. He calls all people everywhere to repent and worship.
+    - Psalm 117 is a call for all of us to worship God.
+    - Read Psalm 117
+    - Prayer
+
+
+
+
+
+
+
+
+
+[^1]: Kidner, Derek. Psalms 73-150: An Introduction and Commentary. Nottingham, England, Downers Grove, Ill.: Inter-Varsity Press ; IVP Academic, 2008.
+[^2]: as one eg see "Psalm 113" in Bratcher, Robert G., and William D. Reyburn. A Translator’s Handbook on the Books of Psalms. Helps for Translators. New York: United Bible Societies, 1989.
+[^3]: Matthew, Henry. Matthew Henry’s Commentary on the Whole Bible: Complete and Unabridged in One Volume. Peabody, MA: Hendrickson, 1994.
+[^4]:Kraus, Hans-Joachim. Psalms 60-150: A Continental Commentary. 1st Fortress Press ed. Minneapolis: Fortress Press, 1993.
+[^5]: Dahood, Mitchell J. Psalms. 3: 101 - 150 / [Dahood, Mitchell]. First Yale University Press impression. The Anchor Bible, volume 17A. New Haven London: Yale Univ. Press, 2011.
+[^6]: Hossfeld, Frank-Lothar, Erich Zenger, and Klaus Baltzer. Psalms 2: A Commentary on Psalms 51-100. Hermeneia. Minneapolis: Fortress Press, 2005.
+
+
+
 
 
