@@ -178,7 +178,54 @@ tags:
 
 ## Session 2: Charles and Susannah
 
-
+- Susannah Thompson
+    - Opposite of Spurgeon
+    - Upscale and stylish city girl
+    - Unbeliever at this time
+    - First impression of Spurgeon on his first Sunday evening - he was a country bumpkin and funny looking.
+    - 2 years older than Spurgeon
+- Spurgeon's country bumpkin-ness was something to work on
+    - Complaint/amusement by many - Suzzy, deacons, etc
+    - He dropped his blue polkadotted pocket square for white ones when the deacons purchased him a dozen white ones
+- Deacon Olney pushed Spurgeon to success at New Park Street Chapel
+    - recruited Suzzy and others to come to the evening service on the first sunday.
+    - Spurgeon called him "the model deacon"
+    - introduced Suzzy and Spurgeon
+        - immediate attraction between them during Spurgeon's interim period
+        - Spurgeon became the pastor on April 20.
+        - Spurgeon gave her a book the next day with a personal note the next day.
+        - Suzzy converted in his first month there.
+- Relationship
+    - Opening of the Crystal Palace
+        - Spurgeon and Suzzy and many friends there for the opening.
+        - 40,000 people there. Queen there, etc.
+        - Spurgeon reading [Tupper's Proverbial Philosophy](https://archive.org/details/tuppersproverbia00tupp/page/n8/mode/1up)
+            - Passe at this point.
+            - section on marriage in it.
+            - Spurgeon asked her - what do you think about this section, "Pray for your spouse"?
+            - Suzzy blushed and could not think about the gala.
+            - Walked around the grounds together
+    - Engaged two months later, August 2nd
+        - Suzzy "dreary and unromantic place", but now I consider it a sacred place.
+        - Spurgeon baptized her during the engagement.
+        - Regularly met at the Crystal Palace for walks together.
+    - Married 15 months later (Jan 8, 1856)
+    - Pregnant with twins in September 1857
+        - Suzzy permanently injured after birth.
+    - Basically permanently homebound by 1868
+        - Spurgeon had to travel to warmer climates due to his health, so they were often separated.
+        - She went with him on his final three month trip before his death.
+            - Recalled as her favorite period of life.
+    - Spurgeon died in France
+        - Suzzy gave a prayer of thanksgiving to the gift God had given her.
+- Letters
+    - became a primary way for them to "be with" one another since he travelled so much
+    - his letters are full of affection and devotion
+    - wrote to her almost every day of his life
+- Time together
+    - Favorite activity of Suzzy was sitting with Spurgeon while he worked since he was always working.
+        - silence but presence
+    - She was a help to him in the home and for his study
 
 ## Session 3: Afflicted, but not Crushed
 
@@ -194,6 +241,8 @@ tags:
 
 - Spurgeon
     - First Spurgeon Biography to read: [William Young Fullerton Charles H. Spurgeon](https://archive.org/details/charleshspurgeon0000full)
+    - [Autobiography](https://archive.org/details/spurgeonsautobio01spuruoft/page/n1/mode/1up), compiled from Spurgeons notes by his wife.
+    - [Photos](https://www.princeofpreachers.org/photos.html)
 - General Church History
     - Long but best intro to Church history: [2000 Years of Christ's Power](https://heritagebooks.org/products/2000-years-of-christs-power-5-vols-needham.html)
 
