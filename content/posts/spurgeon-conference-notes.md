@@ -298,12 +298,39 @@ tags:
             - 7 killed, 28 seriously injured
         - attacked afterward that it was his ego of gathering sich large crowds that led to this disaster
         - 22 when this happened
-        - would call his reaction to this today as PTSD.
+        - shock never left him
+            - would call his reaction to this today as PTSD.
 - Did not have a strong physical constitution
     - lifelong health problems especially with his liver and kidneys
-    - health worsened every winter - began at age 37 to take a vacation every winter to southern France
-    - said cigars gave him relief - so maybe don't trust his medical advice
+    - pain from rheumatism, gout, sciatica, etc.
+        - in relatively constant pain during winters
+        - health worsened every winter - began at age 37 to take a vacation every winter to southern France
+        - said cigars gave him relief - so maybe don't trust his medical advice
+        - eg letter to congregation when invalided in France: "know that if this soldier could stand, he would march". Lord willing, I will be able to get out of bed and return in two weeks.
+- Constantly preached to downcast people.
+    - made the encouragements and promises of the gospel more prominent than the condemnation
+    - make the good news of the gospel stand out
+- One passage that he preached on at least 10 times
+    - Spurgeon generally only preached a text once.
+        - Preached excerpts from every book of the Bible except 2 John.
+        - Did not repeat sermons even when traveling. 
+    - Exception: Isaiah 61:1-3
 
+> The Spirit of the Lord GOD is upon me, 
+> because the LORD has anointed me 
+> to bring good news to the poor; 
+> he has sent me to bind up the brokenhearted, 
+> to proclaim liberty to the captives, 
+> and the opening of the prison to those who are bound;
+> to proclaim the year of the LORD’s favor,
+> and the day of vengeance of our God;
+> to comfort all who mourn;
+> to grant to those who mourn in Zion—
+> to give them a beautiful headdress instead of ashes,
+> the oil of gladness instead of mourning,
+> the garment of praise instead of a faint spirit;
+> that they may be called oaks of righteousness,
+> the planting of the LORD, that he may be glorified.
 
 ## Session 4: Lectures to My Students
 
