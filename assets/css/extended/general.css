@@ -10,6 +10,155 @@ body {
     --wrong: rgb(218,15,15);
 }
 
+.post-content ul {
+    list-style: none;
+}
+
+.post-content ul > li {
+    --list-marker-content: "";
+    --list-marker-top: 0.65em;
+    --list-marker-width: 0.32em;
+    --list-marker-height: 0.32em;
+    --list-marker-border: 0;
+    --list-marker-border-top: 0;
+    --list-marker-radius: 50%;
+    --list-marker-background: currentColor;
+    --list-marker-line-height: 1;
+
+    position: relative;
+}
+
+.post-content ul > li::before {
+    content: var(--list-marker-content);
+    position: absolute;
+    top: var(--list-marker-top);
+    left: -0.9em;
+    box-sizing: border-box;
+    width: var(--list-marker-width);
+    height: var(--list-marker-height);
+    border: var(--list-marker-border);
+    border-top: var(--list-marker-border-top);
+    border-radius: var(--list-marker-radius);
+    line-height: var(--list-marker-line-height);
+    text-decoration: none;
+    box-shadow: none;
+    background: var(--list-marker-background);
+}
+
+.post-content ul ul > li {
+    --list-marker-content: "";
+    --list-marker-top: 0.58em;
+    --list-marker-width: 0.38em;
+    --list-marker-height: 0.38em;
+    --list-marker-border: 1px solid currentColor;
+    --list-marker-border-top: 1px solid currentColor;
+    --list-marker-radius: 50%;
+    --list-marker-background: transparent;
+    --list-marker-line-height: 1;
+}
+
+.post-content ul ul ul > li {
+    --list-marker-content: "";
+    --list-marker-top: 0.65em;
+    --list-marker-width: 0.32em;
+    --list-marker-height: 0.32em;
+    --list-marker-border: 0;
+    --list-marker-border-top: 0;
+    --list-marker-radius: 0;
+    --list-marker-background: currentColor;
+    --list-marker-line-height: 1;
+}
+
+.post-content ul ul ul ul > li {
+    --list-marker-content: "";
+    --list-marker-top: 0.58em;
+    --list-marker-width: 0.38em;
+    --list-marker-height: 0.38em;
+    --list-marker-border: 1px solid currentColor;
+    --list-marker-border-top: 1px solid currentColor;
+    --list-marker-radius: 0;
+    --list-marker-background: transparent;
+    --list-marker-line-height: 1;
+}
+
+.post-content ul ul ul ul ul > li {
+    --list-marker-content: "\2013";
+    --list-marker-top: 0;
+    --list-marker-width: auto;
+    --list-marker-height: auto;
+    --list-marker-border: 0;
+    --list-marker-border-top: 0;
+    --list-marker-radius: 0;
+    --list-marker-background: transparent;
+    --list-marker-line-height: 1.4;
+}
+
+.post-content ul ul ul ul ul ul > li {
+    --list-marker-content: "";
+    --list-marker-top: 0.65em;
+    --list-marker-width: 0.32em;
+    --list-marker-height: 0.32em;
+    --list-marker-border: 0;
+    --list-marker-border-top: 0;
+    --list-marker-radius: 50%;
+    --list-marker-background: currentColor;
+    --list-marker-line-height: 1;
+}
+
+.post-content ul ul ul ul ul ul ul > li {
+    --list-marker-content: "";
+    --list-marker-top: 0.58em;
+    --list-marker-width: 0.38em;
+    --list-marker-height: 0.38em;
+    --list-marker-border: 1px solid currentColor;
+    --list-marker-border-top: 1px solid currentColor;
+    --list-marker-radius: 50%;
+    --list-marker-background: transparent;
+    --list-marker-line-height: 1;
+}
+
+.post-content ul ul ul ul ul ul ul ul > li {
+    --list-marker-content: "";
+    --list-marker-top: 0.65em;
+    --list-marker-width: 0.32em;
+    --list-marker-height: 0.32em;
+    --list-marker-border: 0;
+    --list-marker-border-top: 0;
+    --list-marker-radius: 0;
+    --list-marker-background: currentColor;
+    --list-marker-line-height: 1;
+}
+
+.post-content ul ul ul ul ul ul ul ul ul > li {
+    --list-marker-content: "";
+    --list-marker-top: 0.58em;
+    --list-marker-width: 0.38em;
+    --list-marker-height: 0.38em;
+    --list-marker-border: 1px solid currentColor;
+    --list-marker-border-top: 1px solid currentColor;
+    --list-marker-radius: 0;
+    --list-marker-background: transparent;
+    --list-marker-line-height: 1;
+}
+
+.post-content ul ul ul ul ul ul ul ul ul ul > li {
+    --list-marker-content: "\2013";
+    --list-marker-top: 0;
+    --list-marker-width: auto;
+    --list-marker-height: auto;
+    --list-marker-border: 0;
+    --list-marker-border-top: 0;
+    --list-marker-radius: 0;
+    --list-marker-background: transparent;
+    --list-marker-line-height: 1.4;
+}
+
+.post-content li > ol,
+.post-content li > ul {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 .dark {
     --correct: rgb(148,225,131);
     --wrong: rgb(255,139,139);
