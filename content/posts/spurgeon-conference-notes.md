@@ -199,45 +199,45 @@ tags:
     - First impression of Spurgeon on his first Sunday evening - he was a country bumpkin and funny looking.
     - 2 years older than Spurgeon
 - Spurgeon's country bumpkin-ness was something to work on
-    - Complaint/amusement by many - Suzzy, deacons, etc
+    - Complaint/amusement by many - Susie, deacons, etc
     - He dropped his blue polkadotted pocket square for white ones when the deacons purchased him a dozen white ones
 - Deacon Olney pushed Spurgeon to success at New Park Street Chapel
-    - recruited Suzzy and others to come to the evening service on the first sunday.
+    - recruited Susie and others to come to the evening service on the first sunday.
     - Spurgeon called him "the model deacon"
-    - introduced Suzzy and Spurgeon
+    - introduced Susie and Spurgeon
         - immediate attraction between them during Spurgeon's interim period
         - Spurgeon became the pastor on April 20.
         - Spurgeon gave her a book the next day with a personal note the next day.
-        - Suzzy converted in his first month there.
+        - Susie converted in his first month there.
 - Relationship
     - Opening of the Crystal Palace
-        - Spurgeon and Suzzy and many friends there for the opening.
+        - Spurgeon and Susie and many friends there for the opening.
         - 40,000 people there. Queen there, etc.
         - Spurgeon reading [Tupper's Proverbial Philosophy](https://archive.org/details/tuppersproverbia00tupp/page/n8/mode/1up)
             - Passe at this point.
             - section on marriage in it.
             - Spurgeon asked her - what do you think about this section, "Pray for your spouse"?
-            - Suzzy blushed and could not think about the gala.
+            - Susie blushed and could not think about the gala.
             - Walked around the grounds together
     - Engaged two months later, August 2nd
-        - Suzzy "dreary and unromantic place", but now I consider it a sacred place.
+        - Susie "dreary and unromantic place", but now I consider it a sacred place.
         - Spurgeon baptized her during the engagement.
         - Regularly met at the Crystal Palace for walks together.
     - Married 15 months later (Jan 8, 1856)
     - Pregnant with twins in September 1857
-        - Suzzy permanently injured after birth.
+        - Susie permanently injured after birth.
     - Basically permanently homebound by 1868
         - Spurgeon had to travel to warmer climates due to his health, so they were often separated.
         - She went with him on his final three month trip before his death.
             - Recalled as her favorite period of life.
     - Spurgeon died in France
-        - Suzzy gave a prayer of thanksgiving to the gift God had given her.
+        - Susie gave a prayer of thanksgiving to the gift God had given her.
 - Letters
     - became a primary way for them to "be with" one another since he travelled so much
     - his letters are full of affection and devotion
     - wrote to her almost every day of his life
 - Time together
-    - Favorite activity of Suzzy was sitting with Spurgeon while he worked since he was always working.
+    - Favorite activity of Susie was sitting with Spurgeon while he worked since he was always working.
         - silence but presence
     - She was a help to him in the home and for his study
 
@@ -334,12 +334,98 @@ tags:
 
 ## Session 4: Lectures to My Students
 
-- Survey of Spurgeon's Book *[Lectures to My Students](https://banneroftruth.org/us/store/pastors-special/lectures-to-my-students/)*
-## Session 5: Spurgeon vs. Joseph Parker
+- Survey of Spurgeon's Book *[Lectures to My Students](https://archive.org/details/lecturestomystud0000spur_q0b3/page/n6/mode/1up)*
+    - A clear record of what Spurgeon thought a pastor should be.
+    - History is a bit more convoluted on when the were published. Generally published today as a single volume.
+    - [Commenting and Commentaries](https://archive.spurgeon.org/misc/c&c.php) published as a separate volume.
+        - Two introductory lectures
+        - A long annotated bibliography
+- Introduction and Apology
+    - reason for the style of these informal lectures
+    - a lot more literary and historical references than in his sermons
+- The Minister’s Self-Watch
+    - carefully guard your hearts and personal habits
+    - far more important than their academic studies
+    - "Beware of being shoddy preachers."
+    - Many are disqualified in the ministry who would be fruitful members.
+    - "The truth must not only be with us, but must always be in us."
+    - Be very very cautious about restoring a fallen man to ministry. He probably was never called in the first place
+- The Call to the Ministry
+    - how can students know they are called?
+    - first sign is an intense all-absorbing call
+    - able to teach
+    - meet all the other qualifications
+    - must see a measure of conversion work going on under his efforts
+        - what makes you think you are called to ministry if people are not being saved?
+    - should see signs of fruit from preaching
+    - There are many ways to serve the Lord in the church. It does not need to be preaching. (cf. Women must not be preachers.)
+- The Preacher’s Private Prayer
+    - more important than preaching
+    - necessity to rely on the Spirit for all ends
+- Our Public Prayer
+    - opposed the idea of writing out a prayer and reading it 
+        - should be extemporaneous
+        - should not be liturgical or pompous
+        - PJ not agree about writing out prayers, but understands the objection to pompousness and liturgy
+    - avoid vain repetition, especially of the Lord's name
+    - do not let it be long--people should not be longing to hear the Amen.
+- Sermons—Their Matter
+    - should have real teaching in them
+    - not moral motivations
+    - theologically and biblically rich
+    - the sermon should spring out of the text
+    - don't be like [John Henley](https://en.wikipedia.org/wiki/John_Henley_(preacher)
+- On the Choice of a Text
+    - PJ - not his best lecture, but still worth reading for a few nuggets
+- On Spiritualizing
+    - Not bad to spiritualize a text, but should be very careful.
+        - gives some humerous examples of over-spiritualizing
+    - Meaning comes out of the text, but don't assume there is never metaphorical meaning in the text.
+        - meaning of Scripture is never merely spiritual. The first sense of the passage must not be drowned in the outflow of your imagination.
+    - PJ - wish he was more clear on where the boundaries are
+- On the Voice
+    - Need to be physically fitted to speaking to a large congregation
+    - Don't use an affected voice in the pulpit.
+        - sound like a man
+        - don't sound effeminate
+        - don't sound like a bear
+        - don't sound grandiose
+        - sound like yourself
+- Attention!
+    - How to obtain and retain the attention of our hearers.
+    - Overlooked in homiletics at the time.
+    - Open windows and let foul air out of the building.
+    - First rule: Always say something worth hearing.
+    - Lots of good tidbits here.
+    - Look at other lecture: [How to Attract a Congregation](https://www.youtube.com/watch?v=objVnGdzQcU)
+- The Faculty of Impromptu Speech
+    - Not about sermons with preparation, but about speaking without immediate forethought
+        - not for sermons. Sermons should always be prepared.
+        - do not attempt to speak impromptu unless you have studied thoroughly
+    - Good advice for those with and without manuscripts
+- The Minister’s Fainting Fits
+    - Gives insight into Spurgeon's discouragement
+    - Down heartedness has its advantages - when prostrate in the dust, trust in God and rely on him
+    - Don't be dismayed by soul trouble. It is a part of the ministerial experience.
+- The Minister’s Ordinary Conversation
+    - encourage students not to project an air of superiority or putting on of airs to his people.
+    - don't have too much ministerial starch
+    - working men keep clear of ministers because of the artificial and unmanly way they talk
+    - must have humanity along with divinity
+    - should still be aware that a minister is *always* on duty.
+        - even in recreation, you are never off duty
+    - lots of good tidbits
+- To Workers with Slender Apparatus
+    - what if you have few books and are too poor to purchase more?
+    - The idea of a pastor who is too poor to buy books is abominable. The church should supply food for his body and books for his soul. A good library is an indispensable part of the church furniture.
+    - one of the most winsome of his lectures
+    - good study can be done with very little
 
-## Session 6: Spurgeon's Preaching Style
+## Missed Sessions
 
-## Second Q&A
+- Session 5: Spurgeon vs. Joseph Parker
+- Session 6: Spurgeon's Preaching Style
+- Second Q&A
 
 ## Recommended Resources
 
@@ -347,6 +433,8 @@ tags:
     - First Spurgeon Biography to read: [William Young Fullerton Charles H. Spurgeon](https://archive.org/details/charleshspurgeon0000full)
     - [Autobiography](https://archive.org/details/spurgeonsautobio01spuruoft/page/n1/mode/1up), compiled from Spurgeons notes by his wife.
     - [Photos](https://www.princeofpreachers.org/photos.html)
+    - [Lectures to My Students](https://banneroftruth.org/us/store/pastors-special/lectures-to-my-students/) - highly recommended
+    - [How to Attract a Congregation](https://www.youtube.com/watch?v=objVnGdzQcU)
     - Depression
         - [Spurgeon's Sorrows](https://www.thegospelcoalition.org/reviews/spurgeons-sorrows/) spiritual treatment for those dealing with despondency and depression
         - [Bright Days, Dark Nights](https://www.amazon.com/Bright-Days-Dark-Nights-Emotional/dp/080106192X) integrates more secular psychology, but still a very good book
