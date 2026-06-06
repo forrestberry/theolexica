@@ -334,6 +334,7 @@ tags:
 
 ## Session 4: Lectures to My Students
 
+- Survey of Spurgeon's Book *[Lectures to My Students](https://banneroftruth.org/us/store/pastors-special/lectures-to-my-students/)*
 ## Session 5: Spurgeon vs. Joseph Parker
 
 ## Session 6: Spurgeon's Preaching Style
