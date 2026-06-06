@@ -14,6 +14,20 @@ tags:
 - Speaker: Phil Johnson
 - June 5-5, 2026
 
+## Spurgeon quick facts
+- 1834–1892 (Victorian England)
+- Known as “The Prince of Preachers.”
+- Became pastor of New Park Street Chapel in London at age 19.
+- Preached to thousands weekly before microphones existed.
+- Led the Metropolitan Tabernacle, one of the largest churches of his day.
+- Sermons were transcribed and published worldwide, eventually exceeding 3,500 sermons and dozens of books.
+- Strongly Reformed/Calvinistic but intensely evangelistic.
+- Converted at age 15 after hearing a simple sermon on Isaiah 45:22: “Look unto me, and be ye saved.”
+- Founded a pastors’ college, orphanages, and numerous ministries.
+- Battled severe depression and chronic illness throughout much of his ministry.
+- Opposed theological liberalism in the famous “Downgrade Controversy.”
+- Often called the last great Puritan, though he lived 150+ years after the Puritans.
+
 ## Session 1: Spurgeon the Soul Winner
 
 - Converted on Jan 6 1850 when he was 15.
@@ -159,7 +173,7 @@ tags:
         - John could have done that, but did not.
         - Wrote out full manuscripts in felt-tip pens. Highlighted important points in red felt tip pen.
         - Didn't really look down at his notes. His wording was extemporaneous.
-            - When JP editing books, would look at the notes for pieces left out of the sermon.
+            - When PJ editing books, would look at the notes for pieces left out of the sermon.
     - MacArthur dispensationalist. Spurgeon not.
         - Early in dispensationalism was tangled up a lot of bad theology (lots that would lead to the non-Lordship view.)
         - Spurgeon concerned about the hints to antinomianism.
@@ -172,7 +186,7 @@ tags:
     - prone to mysticism
         - eg. Spurgeon make an illustration about someone's conscience is pricked from stealing gloves. Turns out someone had stolen gloves.
         - Spurgeon would call it a prophecy.
-        - JP would call it a profound providenceo.
+        - PJ would call it a profound providenceo.
         - happened a few times in Spurgeons life.
     - not a charismatic in the modern sense at all
 
@@ -229,6 +243,68 @@ tags:
 
 ## Session 3: Afflicted, but not Crushed
 
+- Spurgeon suffered with depression throughout his life.
+    - unsure of the cause
+        - weight of responsibility?
+        - physical malady?
+        - constant criticism and attacks from 19yo through the rest of his life
+        - social hardship (time of Oliver Twist)
+        - fundamental disposition
+        - unhealthy atmosphere of London ("miasma", cholera, sewage, Jack the Ripper and crime)
+        - involvement in many controversies through his life
+    - be aware of overdoing it
+        - does not have marks of depression as we think of it.
+        - one of the most productive pastors in church history
+        - shows humor very often
+        - focused on others and gives them help
+            - letter sent with a widow to the deacons -- this woman needs some help. I think we ought to help her. However, "be forewarned that she talks like a parrot with its tail on fire."
+    - Spurgeon said he had a "perpetual struggle with sadness".
+- Struggled with this from childhood.
+    - Sent to live with his grandparents from 18 months.
+        - 25 miles away
+    - Spurgeon did not return to live at home until he was 8.
+        - Spurgeon always spoke affectionately about his mother, but something must have been strained there.
+    - Spurgeons mother gave birth to 17 children. Only 9 survived.
+    - Seems like his mother suffered from some sort of infirmity.
+    - Mainly cared for by his Aunt.
+        - She taught him to read when he was 3.
+    - He was reading the puritans by the time he was 8.
+        - Pilgrim's Progress was his favorite book. He felt like the burdened Pilgrim.
+        - felt the weight of sin and condemnation that was out of proportaion to his age
+        - At a young age he had a lot of solitude.
+            - Would hide in a tomb in the graveyard.
+            - "To be alone was my boyish heaven"
+    - Spurgeon kept this private struggle private, even with a father and grandfather who were capable pastors.
+- Spent five years searching for salavation.
+    - Refused to deal superficially with matters of guilt and divine judgement.
+    - Listened to sermons, read books, refused to allow mental knowledge to substitute for real faith
+    - Called these five years the greatest depression of his life.
+    - Recalled that this made him an effective soul winner. He could articulate the fear and angst of the lost and point to the way to salvation.
+    - Saved at 15 - poor message on the simplicity of the gospel. The preacher called him out directly and told him that he looked miserable.
+    - recognized the joy of heaven in his forgiveness.
+    - began to speak of the mercies of God almost immediately
+- Began meeting in Exeter Hall 5 years after taking the New Park Street Chapel due to large crowds.
+    - bitter criticism
+        - made him a bit melancholy
+        - learned to take the abuse
+    - received large praise
+        - made him more melancholy
+        - never became accustomed to praise
+        - made him feel inadequate and a need to work harder
+- Decision to build the Metropolitan Tabernacle
+    - one of the busiest intersections in London
+    - preached at Surrey Gardens Music Hall to 12000 people
+        - at the end of the pastoral prayer, some shouted "Fire!"
+            - 7 killed, 28 seriously injured
+        - attacked afterward that it was his ego of gathering sich large crowds that led to this disaster
+        - 22 when this happened
+        - would call his reaction to this today as PTSD.
+- Did not have a strong physical constitution
+    - lifelong health problems especially with his liver and kidneys
+    - health worsened every winter - began at age 37 to take a vacation every winter to southern France
+    - said cigars gave him relief - so maybe don't trust his medical advice
+
+
 ## Session 4: Lectures to My Students
 
 ## Session 5: Spurgeon vs. Joseph Parker
@@ -243,6 +319,13 @@ tags:
     - First Spurgeon Biography to read: [William Young Fullerton Charles H. Spurgeon](https://archive.org/details/charleshspurgeon0000full)
     - [Autobiography](https://archive.org/details/spurgeonsautobio01spuruoft/page/n1/mode/1up), compiled from Spurgeons notes by his wife.
     - [Photos](https://www.princeofpreachers.org/photos.html)
+    - Depression
+        - [Spurgeon's Sorrows](https://www.thegospelcoalition.org/reviews/spurgeons-sorrows/) spiritual treatment for those dealing with despondency and depression
+        - [Bright Days, Dark Nights](https://www.amazon.com/Bright-Days-Dark-Nights-Emotional/dp/080106192X) integrates more secular psychology, but still a very good book
+        - [William Albert When the Wind Blows Cold Dissertation](https://repository.sbts.edu/entities/publication/a12fd8de-dd40-4b65-9a21-9a144c0a3096)
+        - [The Victorian Preachers Malady: The Metaphorical Usage of Gout in the Life of Charles Haddon Spurgeon by Dale Warren Smith](https://dissertation.com/abstract/2188493)
+        - [Charles Haddon Spurgeon on Depression by Mitchel Pierce](https://digitalcommons.whitworth.edu/cgi/viewcontent.cgi?article=1024&context=th314h)
+        - [Beside Still Waters Words of Comfort for the Soul](Beside Still Waters: Words of Comfort for the Soul) - excerpts from Spurgeon, very useful one page devotions, one of the best pastoral resources for those with depression
 - Susannah Spurgeon
     - [Susannah Spurgeon](https://banneroftruth.org/us/about/banner-authors/susannah-spurgeon/)
     - [Susie](https://www.rayrhodesjr.com/susie-the-book/#)
