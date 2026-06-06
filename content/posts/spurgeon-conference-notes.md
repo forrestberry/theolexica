@@ -243,6 +243,13 @@ tags:
     - First Spurgeon Biography to read: [William Young Fullerton Charles H. Spurgeon](https://archive.org/details/charleshspurgeon0000full)
     - [Autobiography](https://archive.org/details/spurgeonsautobio01spuruoft/page/n1/mode/1up), compiled from Spurgeons notes by his wife.
     - [Photos](https://www.princeofpreachers.org/photos.html)
+- Susannah Spurgeon
+    - [Susannah Spurgeon](https://banneroftruth.org/us/about/banner-authors/susannah-spurgeon/)
+    - [Susie](https://www.rayrhodesjr.com/susie-the-book/#)
+    - [Yours till Heaven](https://www.rayrhodesjr.com/buy-yours/)
+    - Autobiographies
+        - [10 Years of My Life in the Service of the Book Fund](https://archive.org/details/TenYearsOfMyLifeInTheServiceOfT)
+        - [10 Years After](https://www.google.com/books/edition/Ten_Years_After/F7UW0AEACAAJ?hl=en)
 - General Church History
     - Long but best intro to Church history: [2000 Years of Christ's Power](https://heritagebooks.org/products/2000-years-of-christs-power-5-vols-needham.html)
 
